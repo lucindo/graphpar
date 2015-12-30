@@ -1,0 +1,180 @@
+Results for 20 vertices, 5% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+cassio                     1.000    0.000      1.000    0.000       0.030   
+improved                   1.000    0.000      1.000    0.000       0.012   
+improved_rand              1.000    0.000      1.000    0.000       0.024   
+linear_mixed_improved      1.000    0.000      1.000    0.000       0.469   
+linear_rand                1.000    0.000      1.000    0.000       0.489   
+quadratic_mixed_improved   1.000    0.000      1.000    0.000       9.603   
+quadratic_rand             1.000    0.000      1.000    0.000       9.035   
+Results for 20 vertices, 10% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+cassio                     1.000    0.000      1.000    0.000       0.017   
+improved                   1.000    0.000      1.000    0.000       0.023   
+improved_rand              1.000    0.000      1.000    0.000       0.024   
+linear_mixed_improved      1.000    0.000      1.000    0.000       0.424   
+linear_rand                1.000    0.000      1.000    0.000       0.408   
+quadratic_mixed_improved   1.000    0.000      1.000    0.000       8.548   
+quadratic_rand             1.000    0.000      1.000    0.000       8.125   
+Results for 20 vertices, 15% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.998    0.001      1.002    0.001       12.906  
+quadratic_rand             0.993    0.002      1.008    0.002       7.597   
+linear_mixed_improved      0.949    0.002      1.065    0.001       0.706   
+linear_rand                0.945    0.004      1.079    0.007       0.413   
+cassio                     0.935    0.003      1.089    0.007       1.577   
+improved_rand              0.848    0.002      1.209    0.007       0.102   
+improved                   0.823    0.009      1.260    0.005       0.035   
+Results for 20 vertices, 20% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.988    0.001      1.015    0.000       13.072  
+quadratic_rand             0.985    0.000      1.020    0.002       7.493   
+cassio                     0.952    0.004      1.073    0.008       3.895   
+linear_mixed_improved      0.942    0.003      1.078    0.006       0.655   
+linear_rand                0.940    0.001      1.084    0.000       0.399   
+improved_rand              0.868    0.014      1.172    0.009       0.117   
+improved                   0.800    0.019      1.267    0.028       0.041   
+Results for 20 vertices, 25% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.980    0.000      1.026    0.001       12.578  
+quadratic_rand             0.979    0.002      1.029    0.003       7.373   
+cassio                     0.958    0.000      1.063    0.003       4.360   
+linear_mixed_improved      0.941    0.004      1.076    0.006       0.691   
+linear_rand                0.939    0.001      1.089    0.009       0.398   
+improved_rand              0.858    0.020      1.199    0.064       0.148   
+improved                   0.809    0.016      1.261    0.006       0.059   
+Results for 20 vertices, 30% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.979    0.001      1.029    0.001       11.916  
+quadratic_rand             0.977    0.000      1.033    0.001       7.346   
+cassio                     0.955    0.005      1.066    0.008       5.791   
+linear_mixed_improved      0.945    0.002      1.071    0.007       0.609   
+linear_rand                0.930    0.005      1.091    0.005       0.385   
+improved_rand              0.864    0.008      1.209    0.004       0.089   
+improved                   0.800    0.006      1.303    0.022       0.041   
+Results for 20 vertices, 35% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.980    0.003      1.028    0.004       11.742  
+quadratic_rand             0.978    0.001      1.032    0.001       7.304   
+cassio                     0.959    0.001      1.064    0.002       6.634   
+linear_mixed_improved      0.941    0.001      1.087    0.003       0.616   
+linear_rand                0.933    0.001      1.086    0.002       0.378   
+improved_rand              0.845    0.011      1.227    0.022       0.113   
+improved                   0.818    0.017      1.266    0.029       0.079   
+Results for 20 vertices, 40% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.981    0.001      1.028    0.000       11.684  
+quadratic_rand             0.977    0.001      1.034    0.002       7.481   
+cassio                     0.955    0.000      1.060    0.008       8.390   
+linear_rand                0.937    0.000      1.091    0.007       0.379   
+linear_mixed_improved      0.936    0.007      1.092    0.010       0.612   
+improved_rand              0.860    0.001      1.205    0.017       0.108   
+improved                   0.828    0.013      1.234    0.056       0.029   
+Results for 20 vertices, 45% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.978    0.000      1.035    0.001       12.166  
+quadratic_rand             0.975    0.000      1.037    0.001       7.971   
+cassio                     0.961    0.001      1.056    0.003       12.466  
+linear_mixed_improved      0.936    0.001      1.095    0.003       0.653   
+linear_rand                0.934    0.005      1.087    0.007       0.443   
+improved_rand              0.867    0.001      1.199    0.010       0.141   
+improved                   0.817    0.006      1.290    0.034       0.061   
+Results for 20 vertices, 50% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.980    0.001      1.031    0.003       12.879  
+quadratic_rand             0.978    0.000      1.034    0.001       8.243   
+cassio                     0.951    0.002      1.080    0.013       12.640  
+linear_mixed_improved      0.941    0.001      1.088    0.001       0.699   
+linear_rand                0.925    0.000      1.111    0.003       0.440   
+improved_rand              0.866    0.012      1.205    0.037       0.122   
+improved                   0.821    0.011      1.261    0.008       0.037   
+Results for 20 vertices, 55% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.979    0.000      1.033    0.001       10.787  
+quadratic_rand             0.977    0.001      1.034    0.004       7.264   
+cassio                     0.958    0.001      1.067    0.002       12.813  
+linear_rand                0.943    0.002      1.081    0.004       0.386   
+linear_mixed_improved      0.942    0.001      1.078    0.000       0.585   
+improved_rand              0.868    0.009      1.186    0.005       0.119   
+improved                   0.817    0.006      1.257    0.000       0.060   
+Results for 20 vertices, 60% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.980    0.002      1.029    0.003       11.757  
+quadratic_rand             0.974    0.003      1.040    0.001       7.788   
+cassio                     0.959    0.005      1.059    0.007       15.022  
+linear_mixed_improved      0.941    0.002      1.085    0.001       0.658   
+linear_rand                0.934    0.004      1.092    0.001       0.414   
+improved_rand              0.853    0.010      1.200    0.002       0.105   
+improved                   0.804    0.008      1.274    0.016       0.047   
+Results for 20 vertices, 65% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.976    0.002      1.036    0.005       10.842  
+quadratic_rand             0.974    0.001      1.037    0.000       7.334   
+cassio                     0.966    0.000      1.055    0.002       16.773  
+linear_mixed_improved      0.937    0.006      1.101    0.026       0.606   
+linear_rand                0.932    0.005      1.091    0.008       0.392   
+improved_rand              0.844    0.003      1.174    0.011       0.108   
+improved                   0.821    0.005      1.244    0.009       0.017   
+Results for 20 vertices, 70% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.976    0.001      1.037    0.001       11.803  
+quadratic_rand             0.976    0.001      1.033    0.000       8.188   
+cassio                     0.960    0.007      1.058    0.009       18.094  
+linear_mixed_improved      0.944    0.004      1.076    0.002       0.583   
+linear_rand                0.932    0.003      1.096    0.001       0.428   
+improved_rand              0.859    0.010      1.197    0.011       0.114   
+improved                   0.780    0.010      1.331    0.004       0.048   
+Results for 20 vertices, 75% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.976    0.001      1.033    0.004       10.455  
+quadratic_rand             0.975    0.003      1.037    0.001       7.279   
+cassio                     0.953    0.005      1.078    0.008       15.987  
+linear_mixed_improved      0.941    0.002      1.082    0.005       0.564   
+linear_rand                0.934    0.001      1.093    0.007       0.404   
+improved_rand              0.858    0.016      1.215    0.010       0.086   
+improved                   0.812    0.003      1.252    0.001       0.041   
+Results for 20 vertices, 80% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.978    0.001      1.032    0.003       10.983  
+quadratic_rand             0.976    0.003      1.035    0.003       7.386   
+cassio                     0.962    0.002      1.060    0.003       17.391  
+linear_mixed_improved      0.946    0.005      1.072    0.007       0.568   
+linear_rand                0.939    0.002      1.092    0.015       0.386   
+improved_rand              0.832    0.004      1.256    0.003       0.100   
+improved                   0.821    0.023      1.289    0.005       0.053   
+Results for 20 vertices, 85% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.978    0.002      1.035    0.001       10.746  
+quadratic_rand             0.977    0.000      1.034    0.001       7.327   
+cassio                     0.964    0.002      1.054    0.004       20.155  
+linear_rand                0.943    0.002      1.087    0.007       0.387   
+linear_mixed_improved      0.940    0.003      1.088    0.007       0.567   
+improved_rand              0.820    0.023      1.272    0.005       0.093   
+improved                   0.805    0.008      1.298    0.050       0.071   
+Results for 20 vertices, 90% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.979    0.001      1.031    0.000       10.661  
+quadratic_rand             0.977    0.003      1.030    0.003       7.345   
+cassio                     0.958    0.003      1.066    0.008       19.905  
+linear_mixed_improved      0.937    0.006      1.091    0.003       0.586   
+linear_rand                0.934    0.001      1.091    0.008       0.380   
+improved_rand              0.857    0.001      1.199    0.014       0.104   
+improved                   0.809    0.020      1.278    0.029       0.041   
+Results for 20 vertices, 95% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_mixed_improved   0.981    0.000      1.026    0.000       10.356  
+quadratic_rand             0.974    0.002      1.041    0.004       7.214   
+cassio                     0.960    0.000      1.057    0.001       20.373  
+linear_mixed_improved      0.943    0.001      1.081    0.000       0.545   
+linear_rand                0.929    0.001      1.106    0.003       0.385   
+improved_rand              0.839    0.014      1.225    0.069       0.099   
+improved                   0.825    0.011      1.230    0.003       0.047   
+Results for 20 vertices, 100% density, 4-partition, 50 runs
+Heuristic                 MinRatio  MinSD     MaxRatio  MaxSD     TimeAverage
+quadratic_rand             0.977    0.000      1.039    0.002       5.329   
+quadratic_mixed_improved   0.976    0.001      1.033    0.000       7.582   
+cassio                     0.964    0.000      1.058    0.004       19.127  
+linear_rand                0.935    0.001      1.096    0.003       0.276   
+linear_mixed_improved      0.931    0.003      1.096    0.007       0.472   
+improved_rand              0.869    0.004      1.190    0.003       0.102   
+improved                   0.809    0.006      1.276    0.016       0.040   

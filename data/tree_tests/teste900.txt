@@ -1,0 +1,350 @@
+Round 0:
+test 2: tree with 900 nodes, 2-partition found in 0.135946 secs after 27 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.425206 secs after 82 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.989562 secs after 189 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.206843 secs after 414 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.989996 secs after 895 iterations
+test 7: tree with 900 nodes, 64-partition found in 11.467992 secs after 1863 iterations
+Round 1:
+test 2: tree with 900 nodes, 2-partition found in 0.083420 secs after 18 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.196741 secs after 38 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.564808 secs after 107 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.440639 secs after 268 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.461524 secs after 607 iterations
+test 7: tree with 900 nodes, 64-partition found in 7.931711 secs after 1256 iterations
+Round 2:
+test 2: tree with 900 nodes, 2-partition found in 0.079079 secs after 15 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.318923 secs after 61 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.861682 secs after 163 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.908344 secs after 354 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.236922 secs after 750 iterations
+test 7: tree with 900 nodes, 64-partition found in 10.024323 secs after 1601 iterations
+Round 3:
+test 2: tree with 900 nodes, 2-partition found in 0.049786 secs after 10 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.218242 secs after 42 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.575421 secs after 109 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.356096 secs after 252 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.230796 secs after 571 iterations
+test 7: tree with 900 nodes, 64-partition found in 7.559508 secs after 1209 iterations
+Round 4:
+test 2: tree with 900 nodes, 2-partition found in 0.131180 secs after 27 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.388279 secs after 75 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.931635 secs after 177 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.142994 secs after 399 iterations
+test 6: tree with 900 nodes, 32-partition found in 5.018574 secs after 887 iterations
+test 7: tree with 900 nodes, 64-partition found in 11.218412 secs after 1793 iterations
+Round 5:
+test 2: tree with 900 nodes, 2-partition found in 0.080657 secs after 16 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.305023 secs after 58 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.766477 secs after 145 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.773444 secs after 330 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.139911 secs after 731 iterations
+test 7: tree with 900 nodes, 64-partition found in 9.456856 secs after 1506 iterations
+Round 6:
+test 2: tree with 900 nodes, 2-partition found in 0.135887 secs after 27 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.444603 secs after 85 iterations
+test 4: tree with 900 nodes, 8-partition found in 1.046691 secs after 198 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.351442 secs after 437 iterations
+test 6: tree with 900 nodes, 32-partition found in 5.375812 secs after 949 iterations
+test 7: tree with 900 nodes, 64-partition found in 12.177407 secs after 1944 iterations
+Round 7:
+test 2: tree with 900 nodes, 2-partition found in 0.063939 secs after 13 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.264739 secs after 51 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.694912 secs after 132 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.680267 secs after 313 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.823808 secs after 674 iterations
+test 7: tree with 900 nodes, 64-partition found in 8.624919 secs after 1371 iterations
+Round 8:
+test 2: tree with 900 nodes, 2-partition found in 0.133239 secs after 28 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.351721 secs after 67 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.895998 secs after 170 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.219994 secs after 412 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.677649 secs after 824 iterations
+test 7: tree with 900 nodes, 64-partition found in 11.104458 secs after 1760 iterations
+Round 9:
+test 2: tree with 900 nodes, 2-partition found in 0.052797 secs after 11 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.202141 secs after 39 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.539708 secs after 102 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.317258 secs after 243 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.038323 secs after 535 iterations
+test 7: tree with 900 nodes, 64-partition found in 7.349624 secs after 1169 iterations
+Round 10:
+test 2: tree with 900 nodes, 2-partition found in 0.077551 secs after 15 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.405044 secs after 78 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.941309 secs after 178 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.160871 secs after 402 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.719648 secs after 838 iterations
+test 7: tree with 900 nodes, 64-partition found in 11.248567 secs after 1804 iterations
+Round 11:
+test 2: tree with 900 nodes, 2-partition found in 0.054441 secs after 11 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.166388 secs after 32 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.495521 secs after 94 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.195225 secs after 222 iterations
+test 6: tree with 900 nodes, 32-partition found in 2.965844 secs after 525 iterations
+test 7: tree with 900 nodes, 64-partition found in 7.056580 secs after 1126 iterations
+Round 12:
+test 2: tree with 900 nodes, 2-partition found in 0.055455 secs after 11 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.251414 secs after 48 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.624584 secs after 118 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.413432 secs after 263 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.360099 secs after 593 iterations
+test 7: tree with 900 nodes, 64-partition found in 7.909048 secs after 1261 iterations
+Round 13:
+test 2: tree with 900 nodes, 2-partition found in 0.091508 secs after 19 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.356381 secs after 69 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.866416 secs after 165 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.961399 secs after 364 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.480706 secs after 791 iterations
+test 7: tree with 900 nodes, 64-partition found in 10.653820 secs after 1687 iterations
+Round 14:
+test 2: tree with 900 nodes, 2-partition found in 0.075117 secs after 15 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.257047 secs after 49 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.811895 secs after 154 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.942954 secs after 362 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.268803 secs after 760 iterations
+test 7: tree with 900 nodes, 64-partition found in 9.880596 secs after 1584 iterations
+Round 15:
+test 2: tree with 900 nodes, 2-partition found in 0.084279 secs after 17 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.324695 secs after 63 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.834444 secs after 159 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.917358 secs after 355 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.199507 secs after 738 iterations
+test 7: tree with 900 nodes, 64-partition found in 9.769273 secs after 1552 iterations
+Round 16:
+test 2: tree with 900 nodes, 2-partition found in 0.090283 secs after 18 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.296518 secs after 57 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.712479 secs after 135 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.677610 secs after 311 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.909731 secs after 693 iterations
+test 7: tree with 900 nodes, 64-partition found in 9.180625 secs after 1471 iterations
+Round 17:
+test 2: tree with 900 nodes, 2-partition found in 0.083018 secs after 18 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.267073 secs after 52 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.656394 secs after 125 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.577403 secs after 294 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.721388 secs after 660 iterations
+test 7: tree with 900 nodes, 64-partition found in 8.516794 secs after 1375 iterations
+Round 18:
+test 2: tree with 900 nodes, 2-partition found in 0.131732 secs after 27 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.408797 secs after 79 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.995955 secs after 188 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.265578 secs after 421 iterations
+test 6: tree with 900 nodes, 32-partition found in 5.206525 secs after 922 iterations
+test 7: tree with 900 nodes, 64-partition found in 11.879754 secs after 1909 iterations
+Round 19:
+test 2: tree with 900 nodes, 2-partition found in 0.051802 secs after 10 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.223705 secs after 43 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.717282 secs after 136 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.570673 secs after 291 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.551798 secs after 626 iterations
+test 7: tree with 900 nodes, 64-partition found in 8.372385 secs after 1338 iterations
+Round 20:
+test 2: tree with 900 nodes, 2-partition found in 0.057546 secs after 12 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.162051 secs after 31 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.444405 secs after 84 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.162368 secs after 214 iterations
+test 6: tree with 900 nodes, 32-partition found in 2.788447 secs after 488 iterations
+test 7: tree with 900 nodes, 64-partition found in 6.821628 secs after 1073 iterations
+Round 21:
+test 2: tree with 900 nodes, 2-partition found in 0.070233 secs after 15 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.235255 secs after 45 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.606936 secs after 115 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.370734 secs after 254 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.102894 secs after 550 iterations
+test 7: tree with 900 nodes, 64-partition found in 7.349711 secs after 1179 iterations
+Round 22:
+test 2: tree with 900 nodes, 2-partition found in 0.155664 secs after 31 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.514096 secs after 98 iterations
+test 4: tree with 900 nodes, 8-partition found in 1.176107 secs after 222 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.654627 secs after 494 iterations
+test 6: tree with 900 nodes, 32-partition found in 5.889107 secs after 1045 iterations
+test 7: tree with 900 nodes, 64-partition found in 13.724197 secs after 2193 iterations
+Round 23:
+test 2: tree with 900 nodes, 2-partition found in 0.081190 secs after 16 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.355223 secs after 69 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.864620 secs after 164 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.966522 secs after 366 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.414847 secs after 785 iterations
+test 7: tree with 900 nodes, 64-partition found in 10.097748 secs after 1618 iterations
+Round 24:
+test 2: tree with 900 nodes, 2-partition found in 0.077400 secs after 15 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.236316 secs after 45 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.649745 secs after 123 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.534206 secs after 286 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.654073 secs after 649 iterations
+test 7: tree with 900 nodes, 64-partition found in 8.492941 secs after 1366 iterations
+Round 25:
+test 2: tree with 900 nodes, 2-partition found in 0.091227 secs after 19 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.333283 secs after 64 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.916532 secs after 175 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.903507 secs after 356 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.257538 secs after 759 iterations
+test 7: tree with 900 nodes, 64-partition found in 10.345928 secs after 1652 iterations
+Round 26:
+test 2: tree with 900 nodes, 2-partition found in 0.029237 secs after 6 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.124574 secs after 24 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.445183 secs after 85 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.078686 secs after 201 iterations
+test 6: tree with 900 nodes, 32-partition found in 2.701031 secs after 475 iterations
+test 7: tree with 900 nodes, 64-partition found in 6.462711 secs after 1020 iterations
+Round 27:
+test 2: tree with 900 nodes, 2-partition found in 0.061535 secs after 13 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.245952 secs after 47 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.656792 secs after 124 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.420210 secs after 263 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.398487 secs after 597 iterations
+test 7: tree with 900 nodes, 64-partition found in 7.728837 secs after 1226 iterations
+Round 28:
+test 2: tree with 900 nodes, 2-partition found in 0.074611 secs after 15 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.250543 secs after 48 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.712092 secs after 135 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.686157 secs after 313 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.795433 secs after 675 iterations
+test 7: tree with 900 nodes, 64-partition found in 9.050105 secs after 1447 iterations
+Round 29:
+test 2: tree with 900 nodes, 2-partition found in 0.044519 secs after 9 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.191902 secs after 37 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.482079 secs after 91 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.248949 secs after 232 iterations
+test 6: tree with 900 nodes, 32-partition found in 2.968905 secs after 526 iterations
+test 7: tree with 900 nodes, 64-partition found in 7.166504 secs after 1136 iterations
+Round 30:
+test 2: tree with 900 nodes, 2-partition found in 0.090865 secs after 19 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.279014 secs after 54 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.703619 secs after 134 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.551369 secs after 289 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.653243 secs after 647 iterations
+test 7: tree with 900 nodes, 64-partition found in 8.767873 secs after 1393 iterations
+Round 31:
+test 2: tree with 900 nodes, 2-partition found in 0.059328 secs after 12 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.196788 secs after 37 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.632234 secs after 120 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.472861 secs after 272 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.446525 secs after 607 iterations
+test 7: tree with 900 nodes, 64-partition found in 8.408681 secs after 1333 iterations
+Round 32:
+test 2: tree with 900 nodes, 2-partition found in 0.035094 secs after 7 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.184523 secs after 35 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.546572 secs after 104 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.206167 secs after 225 iterations
+test 6: tree with 900 nodes, 32-partition found in 2.795318 secs after 497 iterations
+test 7: tree with 900 nodes, 64-partition found in 7.107586 secs after 1133 iterations
+Round 33:
+test 2: tree with 900 nodes, 2-partition found in 0.099130 secs after 19 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.441209 secs after 84 iterations
+test 4: tree with 900 nodes, 8-partition found in 1.086087 secs after 205 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.469878 secs after 458 iterations
+test 6: tree with 900 nodes, 32-partition found in 5.627182 secs after 996 iterations
+test 7: tree with 900 nodes, 64-partition found in 12.482440 secs after 2000 iterations
+Round 34:
+test 2: tree with 900 nodes, 2-partition found in 0.109125 secs after 22 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.383418 secs after 74 iterations
+test 4: tree with 900 nodes, 8-partition found in 1.008208 secs after 191 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.290706 secs after 425 iterations
+test 6: tree with 900 nodes, 32-partition found in 5.002164 secs after 888 iterations
+test 7: tree with 900 nodes, 64-partition found in 11.900455 secs after 1893 iterations
+Round 35:
+test 2: tree with 900 nodes, 2-partition found in 0.164900 secs after 34 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.479553 secs after 91 iterations
+test 4: tree with 900 nodes, 8-partition found in 1.167143 secs after 221 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.584021 secs after 479 iterations
+test 6: tree with 900 nodes, 32-partition found in 5.875324 secs after 1044 iterations
+test 7: tree with 900 nodes, 64-partition found in 13.648238 secs after 2181 iterations
+Round 36:
+test 2: tree with 900 nodes, 2-partition found in 0.166823 secs after 33 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.550036 secs after 105 iterations
+test 4: tree with 900 nodes, 8-partition found in 1.304600 secs after 247 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.981475 secs after 555 iterations
+test 6: tree with 900 nodes, 32-partition found in 6.664984 secs after 1184 iterations
+test 7: tree with 900 nodes, 64-partition found in 15.374486 secs after 2460 iterations
+Round 37:
+test 2: tree with 900 nodes, 2-partition found in 0.072518 secs after 15 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.280135 secs after 54 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.716949 secs after 136 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.697879 secs after 316 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.837938 secs after 681 iterations
+test 7: tree with 900 nodes, 64-partition found in 9.438021 secs after 1501 iterations
+Round 38:
+test 2: tree with 900 nodes, 2-partition found in 0.090011 secs after 18 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.290634 secs after 55 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.773868 secs after 146 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.848325 secs after 343 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.281559 secs after 757 iterations
+test 7: tree with 900 nodes, 64-partition found in 9.995100 secs after 1584 iterations
+Round 39:
+test 2: tree with 900 nodes, 2-partition found in 0.077809 secs after 16 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.258985 secs after 50 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.659434 secs after 125 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.525982 secs after 284 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.636919 secs after 645 iterations
+test 7: tree with 900 nodes, 64-partition found in 8.574403 secs after 1367 iterations
+Round 40:
+test 2: tree with 900 nodes, 2-partition found in 0.102607 secs after 20 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.391487 secs after 75 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.945770 secs after 179 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.150593 secs after 397 iterations
+test 6: tree with 900 nodes, 32-partition found in 4.850318 secs after 857 iterations
+test 7: tree with 900 nodes, 64-partition found in 11.560901 secs after 1826 iterations
+Round 41:
+test 2: tree with 900 nodes, 2-partition found in 0.088666 secs after 18 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.291539 secs after 56 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.785792 secs after 149 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.825385 secs after 339 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.946223 secs after 702 iterations
+test 7: tree with 900 nodes, 64-partition found in 9.601150 secs after 1533 iterations
+Round 42:
+test 2: tree with 900 nodes, 2-partition found in 0.149719 secs after 29 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.481602 secs after 92 iterations
+test 4: tree with 900 nodes, 8-partition found in 1.211984 secs after 230 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.716999 secs after 505 iterations
+test 6: tree with 900 nodes, 32-partition found in 5.878248 secs after 1042 iterations
+test 7: tree with 900 nodes, 64-partition found in 13.826113 secs after 2200 iterations
+Round 43:
+test 2: tree with 900 nodes, 2-partition found in 0.060515 secs after 13 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.170818 secs after 33 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.510944 secs after 97 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.149299 secs after 213 iterations
+test 6: tree with 900 nodes, 32-partition found in 2.931586 secs after 519 iterations
+test 7: tree with 900 nodes, 64-partition found in 7.059842 secs after 1128 iterations
+Round 44:
+test 2: tree with 900 nodes, 2-partition found in 0.058857 secs after 12 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.234429 secs after 45 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.709241 secs after 135 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.525071 secs after 283 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.634019 secs after 639 iterations
+test 7: tree with 900 nodes, 64-partition found in 8.598794 secs after 1356 iterations
+Round 45:
+test 2: tree with 900 nodes, 2-partition found in 0.106322 secs after 21 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.457782 secs after 88 iterations
+test 4: tree with 900 nodes, 8-partition found in 1.086563 secs after 206 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.462471 secs after 458 iterations
+test 6: tree with 900 nodes, 32-partition found in 5.305553 secs after 944 iterations
+test 7: tree with 900 nodes, 64-partition found in 12.184864 secs after 1963 iterations
+Round 46:
+test 2: tree with 900 nodes, 2-partition found in 0.040209 secs after 8 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.233433 secs after 45 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.611915 secs after 116 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.564030 secs after 291 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.391483 secs after 606 iterations
+test 7: tree with 900 nodes, 64-partition found in 8.325723 secs after 1340 iterations
+Round 47:
+test 2: tree with 900 nodes, 2-partition found in 0.143425 secs after 29 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.463752 secs after 89 iterations
+test 4: tree with 900 nodes, 8-partition found in 1.042710 secs after 197 iterations
+test 5: tree with 900 nodes, 16-partition found in 2.282590 secs after 425 iterations
+test 6: tree with 900 nodes, 32-partition found in 5.222525 secs after 922 iterations
+test 7: tree with 900 nodes, 64-partition found in 11.672500 secs after 1867 iterations
+Round 48:
+test 2: tree with 900 nodes, 2-partition found in 0.070425 secs after 15 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.197262 secs after 38 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.526071 secs after 99 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.327302 secs after 244 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.115666 secs after 547 iterations
+test 7: tree with 900 nodes, 64-partition found in 7.216736 secs after 1149 iterations
+Round 49:
+test 2: tree with 900 nodes, 2-partition found in 0.073580 secs after 14 iterations
+test 3: tree with 900 nodes, 4-partition found in 0.273673 secs after 52 iterations
+test 4: tree with 900 nodes, 8-partition found in 0.661909 secs after 125 iterations
+test 5: tree with 900 nodes, 16-partition found in 1.570510 secs after 293 iterations
+test 6: tree with 900 nodes, 32-partition found in 3.672106 secs after 650 iterations
+test 7: tree with 900 nodes, 64-partition found in 8.449275 secs after 1354 iterations

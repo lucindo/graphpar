@@ -1,0 +1,350 @@
+Round 0:
+test 2: tree with 1600 nodes, 2-partition found in 0.275207 secs after 30 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.785451 secs after 82 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.213939 secs after 231 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.989491 secs after 519 iterations
+test 6: tree with 1600 nodes, 32-partition found in 10.454754 secs after 1063 iterations
+test 7: tree with 1600 nodes, 64-partition found in 23.128164 secs after 2211 iterations
+Round 1:
+test 2: tree with 1600 nodes, 2-partition found in 0.186493 secs after 20 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.635074 secs after 67 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.611176 secs after 169 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.744768 secs after 390 iterations
+test 6: tree with 1600 nodes, 32-partition found in 8.056186 secs after 819 iterations
+test 7: tree with 1600 nodes, 64-partition found in 18.248009 secs after 1731 iterations
+Round 2:
+test 2: tree with 1600 nodes, 2-partition found in 0.136199 secs after 15 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.452472 secs after 48 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.224258 secs after 128 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.051277 secs after 317 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.058957 secs after 715 iterations
+test 7: tree with 1600 nodes, 64-partition found in 16.388830 secs after 1551 iterations
+Round 3:
+test 2: tree with 1600 nodes, 2-partition found in 0.205473 secs after 22 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.696627 secs after 73 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.710720 secs after 179 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.794738 secs after 394 iterations
+test 6: tree with 1600 nodes, 32-partition found in 8.259868 secs after 839 iterations
+test 7: tree with 1600 nodes, 64-partition found in 18.745193 secs after 1778 iterations
+Round 4:
+test 2: tree with 1600 nodes, 2-partition found in 0.163678 secs after 18 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.513617 secs after 53 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.459545 secs after 152 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.263576 secs after 338 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.636690 secs after 771 iterations
+test 7: tree with 1600 nodes, 64-partition found in 17.564259 secs after 1656 iterations
+Round 5:
+test 2: tree with 1600 nodes, 2-partition found in 0.316019 secs after 34 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.944629 secs after 99 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.297987 secs after 240 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.989839 secs after 519 iterations
+test 6: tree with 1600 nodes, 32-partition found in 10.782516 secs after 1094 iterations
+test 7: tree with 1600 nodes, 64-partition found in 24.181971 secs after 2295 iterations
+Round 6:
+test 2: tree with 1600 nodes, 2-partition found in 0.139007 secs after 15 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.564907 secs after 59 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.445230 secs after 151 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.447591 secs after 360 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.741551 secs after 789 iterations
+test 7: tree with 1600 nodes, 64-partition found in 17.034766 secs after 1636 iterations
+Round 7:
+test 2: tree with 1600 nodes, 2-partition found in 0.184968 secs after 20 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.581369 secs after 61 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.466645 secs after 154 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.497658 secs after 364 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.784837 secs after 787 iterations
+test 7: tree with 1600 nodes, 64-partition found in 18.092460 secs after 1703 iterations
+Round 8:
+test 2: tree with 1600 nodes, 2-partition found in 0.306469 secs after 33 iterations
+test 3: tree with 1600 nodes, 4-partition found in 1.015294 secs after 106 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.445387 secs after 255 iterations
+test 5: tree with 1600 nodes, 16-partition found in 5.719332 secs after 595 iterations
+test 6: tree with 1600 nodes, 32-partition found in 12.090320 secs after 1221 iterations
+test 7: tree with 1600 nodes, 64-partition found in 26.790244 secs after 2532 iterations
+Round 9:
+test 2: tree with 1600 nodes, 2-partition found in 0.169717 secs after 18 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.688351 secs after 72 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.880420 secs after 196 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.184678 secs after 435 iterations
+test 6: tree with 1600 nodes, 32-partition found in 8.966952 secs after 909 iterations
+test 7: tree with 1600 nodes, 64-partition found in 21.239550 secs after 2008 iterations
+Round 10:
+test 2: tree with 1600 nodes, 2-partition found in 0.192076 secs after 22 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.754705 secs after 80 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.746615 secs after 183 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.071419 secs after 425 iterations
+test 6: tree with 1600 nodes, 32-partition found in 8.916603 secs after 906 iterations
+test 7: tree with 1600 nodes, 64-partition found in 18.876948 secs after 1807 iterations
+Round 11:
+test 2: tree with 1600 nodes, 2-partition found in 0.130041 secs after 14 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.663227 secs after 70 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.589884 secs after 166 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.552792 secs after 369 iterations
+test 6: tree with 1600 nodes, 32-partition found in 8.265411 secs after 836 iterations
+test 7: tree with 1600 nodes, 64-partition found in 18.060776 secs after 1707 iterations
+Round 12:
+test 2: tree with 1600 nodes, 2-partition found in 0.164063 secs after 19 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.720415 secs after 76 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.781062 secs after 187 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.834186 secs after 400 iterations
+test 6: tree with 1600 nodes, 32-partition found in 8.523153 secs after 866 iterations
+test 7: tree with 1600 nodes, 64-partition found in 19.514486 secs after 1855 iterations
+Round 13:
+test 2: tree with 1600 nodes, 2-partition found in 0.100509 secs after 11 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.491638 secs after 52 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.327119 secs after 140 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.013931 secs after 315 iterations
+test 6: tree with 1600 nodes, 32-partition found in 6.905410 secs after 707 iterations
+test 7: tree with 1600 nodes, 64-partition found in 15.745016 secs after 1506 iterations
+Round 14:
+test 2: tree with 1600 nodes, 2-partition found in 0.332844 secs after 36 iterations
+test 3: tree with 1600 nodes, 4-partition found in 1.091739 secs after 115 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.425408 secs after 254 iterations
+test 5: tree with 1600 nodes, 16-partition found in 5.789532 secs after 604 iterations
+test 6: tree with 1600 nodes, 32-partition found in 12.699976 secs after 1295 iterations
+test 7: tree with 1600 nodes, 64-partition found in 28.221063 secs after 2696 iterations
+Round 15:
+test 2: tree with 1600 nodes, 2-partition found in 0.238406 secs after 28 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.701546 secs after 73 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.725627 secs after 180 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.965856 secs after 412 iterations
+test 6: tree with 1600 nodes, 32-partition found in 8.628120 secs after 875 iterations
+test 7: tree with 1600 nodes, 64-partition found in 19.806210 secs after 1880 iterations
+Round 16:
+test 2: tree with 1600 nodes, 2-partition found in 0.205822 secs after 22 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.805425 secs after 84 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.988060 secs after 208 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.693833 secs after 489 iterations
+test 6: tree with 1600 nodes, 32-partition found in 10.514446 secs after 1066 iterations
+test 7: tree with 1600 nodes, 64-partition found in 23.579530 secs after 2240 iterations
+Round 17:
+test 2: tree with 1600 nodes, 2-partition found in 0.134497 secs after 15 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.498733 secs after 53 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.290870 secs after 135 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.504993 secs after 365 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.780019 secs after 789 iterations
+test 7: tree with 1600 nodes, 64-partition found in 17.532916 secs after 1664 iterations
+Round 18:
+test 2: tree with 1600 nodes, 2-partition found in 0.127110 secs after 14 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.495500 secs after 52 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.169309 secs after 122 iterations
+test 5: tree with 1600 nodes, 16-partition found in 2.800162 secs after 291 iterations
+test 6: tree with 1600 nodes, 32-partition found in 6.533848 secs after 661 iterations
+test 7: tree with 1600 nodes, 64-partition found in 15.404744 secs after 1445 iterations
+Round 19:
+test 2: tree with 1600 nodes, 2-partition found in 0.275766 secs after 29 iterations
+test 3: tree with 1600 nodes, 4-partition found in 1.018179 secs after 107 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.439202 secs after 256 iterations
+test 5: tree with 1600 nodes, 16-partition found in 5.314071 secs after 553 iterations
+test 6: tree with 1600 nodes, 32-partition found in 11.926389 secs after 1213 iterations
+test 7: tree with 1600 nodes, 64-partition found in 26.380876 secs after 2510 iterations
+Round 20:
+test 2: tree with 1600 nodes, 2-partition found in 0.377967 secs after 41 iterations
+test 3: tree with 1600 nodes, 4-partition found in 1.074363 secs after 112 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.530176 secs after 263 iterations
+test 5: tree with 1600 nodes, 16-partition found in 5.622394 secs after 584 iterations
+test 6: tree with 1600 nodes, 32-partition found in 12.158777 secs after 1235 iterations
+test 7: tree with 1600 nodes, 64-partition found in 27.835375 secs after 2645 iterations
+Round 21:
+test 2: tree with 1600 nodes, 2-partition found in 0.186455 secs after 20 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.635960 secs after 67 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.588261 secs after 166 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.670413 secs after 381 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.916985 secs after 802 iterations
+test 7: tree with 1600 nodes, 64-partition found in 18.072695 secs after 1718 iterations
+Round 22:
+test 2: tree with 1600 nodes, 2-partition found in 0.231707 secs after 26 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.749960 secs after 80 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.667136 secs after 174 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.579300 secs after 372 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.989316 secs after 812 iterations
+test 7: tree with 1600 nodes, 64-partition found in 18.099115 secs after 1727 iterations
+Round 23:
+test 2: tree with 1600 nodes, 2-partition found in 0.094524 secs after 10 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.306001 secs after 32 iterations
+test 4: tree with 1600 nodes, 8-partition found in 0.870086 secs after 91 iterations
+test 5: tree with 1600 nodes, 16-partition found in 2.161138 secs after 225 iterations
+test 6: tree with 1600 nodes, 32-partition found in 5.230257 secs after 532 iterations
+test 7: tree with 1600 nodes, 64-partition found in 11.778171 secs after 1121 iterations
+Round 24:
+test 2: tree with 1600 nodes, 2-partition found in 0.101207 secs after 12 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.394843 secs after 41 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.384437 secs after 145 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.120902 secs after 325 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.367366 secs after 747 iterations
+test 7: tree with 1600 nodes, 64-partition found in 15.858463 secs after 1501 iterations
+Round 25:
+test 2: tree with 1600 nodes, 2-partition found in 0.144704 secs after 16 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.432992 secs after 45 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.110803 secs after 116 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.113198 secs after 323 iterations
+test 6: tree with 1600 nodes, 32-partition found in 6.665273 secs after 673 iterations
+test 7: tree with 1600 nodes, 64-partition found in 15.484719 secs after 1463 iterations
+Round 26:
+test 2: tree with 1600 nodes, 2-partition found in 0.216539 secs after 24 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.783956 secs after 83 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.792047 secs after 188 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.292597 secs after 449 iterations
+test 6: tree with 1600 nodes, 32-partition found in 8.806795 secs after 900 iterations
+test 7: tree with 1600 nodes, 64-partition found in 19.784708 secs after 1896 iterations
+Round 27:
+test 2: tree with 1600 nodes, 2-partition found in 0.082448 secs after 9 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.331349 secs after 35 iterations
+test 4: tree with 1600 nodes, 8-partition found in 0.840099 secs after 88 iterations
+test 5: tree with 1600 nodes, 16-partition found in 2.155687 secs after 224 iterations
+test 6: tree with 1600 nodes, 32-partition found in 4.923231 secs after 498 iterations
+test 7: tree with 1600 nodes, 64-partition found in 12.203372 secs after 1153 iterations
+Round 28:
+test 2: tree with 1600 nodes, 2-partition found in 0.044469 secs after 5 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.169047 secs after 18 iterations
+test 4: tree with 1600 nodes, 8-partition found in 0.541720 secs after 57 iterations
+test 5: tree with 1600 nodes, 16-partition found in 1.306714 secs after 136 iterations
+test 6: tree with 1600 nodes, 32-partition found in 3.495451 secs after 355 iterations
+test 7: tree with 1600 nodes, 64-partition found in 8.592908 secs after 812 iterations
+Round 29:
+test 2: tree with 1600 nodes, 2-partition found in 0.218733 secs after 24 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.700270 secs after 73 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.954047 secs after 205 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.323681 secs after 451 iterations
+test 6: tree with 1600 nodes, 32-partition found in 8.979825 secs after 916 iterations
+test 7: tree with 1600 nodes, 64-partition found in 20.874693 secs after 1986 iterations
+Round 30:
+test 2: tree with 1600 nodes, 2-partition found in 0.103421 secs after 12 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.531246 secs after 57 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.137580 secs after 120 iterations
+test 5: tree with 1600 nodes, 16-partition found in 2.536875 secs after 265 iterations
+test 6: tree with 1600 nodes, 32-partition found in 6.138187 secs after 628 iterations
+test 7: tree with 1600 nodes, 64-partition found in 13.866880 secs after 1328 iterations
+Round 31:
+test 2: tree with 1600 nodes, 2-partition found in 0.179290 secs after 20 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.551619 secs after 58 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.606841 secs after 168 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.654660 secs after 380 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.976081 secs after 811 iterations
+test 7: tree with 1600 nodes, 64-partition found in 18.299394 secs after 1747 iterations
+Round 32:
+test 2: tree with 1600 nodes, 2-partition found in 0.264159 secs after 30 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.719139 secs after 75 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.896457 secs after 199 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.107317 secs after 427 iterations
+test 6: tree with 1600 nodes, 32-partition found in 9.594504 secs after 971 iterations
+test 7: tree with 1600 nodes, 64-partition found in 21.115069 secs after 1995 iterations
+Round 33:
+test 2: tree with 1600 nodes, 2-partition found in 0.293941 secs after 34 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.811709 secs after 85 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.159876 secs after 227 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.802499 secs after 501 iterations
+test 6: tree with 1600 nodes, 32-partition found in 9.954340 secs after 1014 iterations
+test 7: tree with 1600 nodes, 64-partition found in 22.322924 secs after 2126 iterations
+Round 34:
+test 2: tree with 1600 nodes, 2-partition found in 0.170273 secs after 19 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.511037 secs after 53 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.398938 secs after 146 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.420292 secs after 356 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.603224 secs after 772 iterations
+test 7: tree with 1600 nodes, 64-partition found in 17.560126 secs after 1665 iterations
+Round 35:
+test 2: tree with 1600 nodes, 2-partition found in 0.285655 secs after 32 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.759272 secs after 79 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.881695 secs after 196 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.750570 secs after 495 iterations
+test 6: tree with 1600 nodes, 32-partition found in 9.705918 secs after 986 iterations
+test 7: tree with 1600 nodes, 64-partition found in 22.359728 secs after 2127 iterations
+Round 36:
+test 2: tree with 1600 nodes, 2-partition found in 0.171120 secs after 19 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.533692 secs after 56 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.377372 secs after 145 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.050172 secs after 318 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.071757 secs after 721 iterations
+test 7: tree with 1600 nodes, 64-partition found in 16.425314 secs after 1561 iterations
+Round 37:
+test 2: tree with 1600 nodes, 2-partition found in 0.367521 secs after 40 iterations
+test 3: tree with 1600 nodes, 4-partition found in 1.242614 secs after 131 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.844127 secs after 298 iterations
+test 5: tree with 1600 nodes, 16-partition found in 6.333779 secs after 660 iterations
+test 6: tree with 1600 nodes, 32-partition found in 13.314290 secs after 1355 iterations
+test 7: tree with 1600 nodes, 64-partition found in 29.537159 secs after 2812 iterations
+Round 38:
+test 2: tree with 1600 nodes, 2-partition found in 0.321987 secs after 36 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.880799 secs after 92 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.454419 secs after 258 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.977146 secs after 520 iterations
+test 6: tree with 1600 nodes, 32-partition found in 11.154911 secs after 1124 iterations
+test 7: tree with 1600 nodes, 64-partition found in 24.466911 secs after 2325 iterations
+Round 39:
+test 2: tree with 1600 nodes, 2-partition found in 0.151992 secs after 16 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.573872 secs after 60 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.636897 secs after 172 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.577371 secs after 373 iterations
+test 6: tree with 1600 nodes, 32-partition found in 8.070962 secs after 823 iterations
+test 7: tree with 1600 nodes, 64-partition found in 17.844497 secs after 1708 iterations
+Round 40:
+test 2: tree with 1600 nodes, 2-partition found in 0.138168 secs after 15 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.596499 secs after 62 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.642249 secs after 172 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.744687 secs after 390 iterations
+test 6: tree with 1600 nodes, 32-partition found in 8.554673 secs after 869 iterations
+test 7: tree with 1600 nodes, 64-partition found in 18.791095 secs after 1794 iterations
+Round 41:
+test 2: tree with 1600 nodes, 2-partition found in 0.186056 secs after 20 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.574735 secs after 60 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.489837 secs after 156 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.606188 secs after 376 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.863953 secs after 802 iterations
+test 7: tree with 1600 nodes, 64-partition found in 17.918862 secs after 1712 iterations
+Round 42:
+test 2: tree with 1600 nodes, 2-partition found in 0.263039 secs after 29 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.803135 secs after 84 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.037378 secs after 214 iterations
+test 5: tree with 1600 nodes, 16-partition found in 4.480294 secs after 466 iterations
+test 6: tree with 1600 nodes, 32-partition found in 9.960441 secs after 1009 iterations
+test 7: tree with 1600 nodes, 64-partition found in 22.299285 secs after 2113 iterations
+Round 43:
+test 2: tree with 1600 nodes, 2-partition found in 0.145286 secs after 16 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.466374 secs after 49 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.239911 secs after 130 iterations
+test 5: tree with 1600 nodes, 16-partition found in 2.922936 secs after 304 iterations
+test 6: tree with 1600 nodes, 32-partition found in 6.728711 secs after 681 iterations
+test 7: tree with 1600 nodes, 64-partition found in 16.027102 secs after 1514 iterations
+Round 44:
+test 2: tree with 1600 nodes, 2-partition found in 0.377285 secs after 41 iterations
+test 3: tree with 1600 nodes, 4-partition found in 1.170445 secs after 122 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.878743 secs after 302 iterations
+test 5: tree with 1600 nodes, 16-partition found in 6.444251 secs after 671 iterations
+test 6: tree with 1600 nodes, 32-partition found in 13.037379 secs after 1322 iterations
+test 7: tree with 1600 nodes, 64-partition found in 28.745401 secs after 2741 iterations
+Round 45:
+test 2: tree with 1600 nodes, 2-partition found in 0.183670 secs after 21 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.620672 secs after 65 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.725503 secs after 180 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.879950 secs after 403 iterations
+test 6: tree with 1600 nodes, 32-partition found in 9.256813 secs after 933 iterations
+test 7: tree with 1600 nodes, 64-partition found in 19.800504 secs after 1871 iterations
+Round 46:
+test 2: tree with 1600 nodes, 2-partition found in 0.112587 secs after 12 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.392080 secs after 41 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.016585 secs after 106 iterations
+test 5: tree with 1600 nodes, 16-partition found in 2.481182 secs after 259 iterations
+test 6: tree with 1600 nodes, 32-partition found in 5.724141 secs after 581 iterations
+test 7: tree with 1600 nodes, 64-partition found in 13.891166 secs after 1316 iterations
+Round 47:
+test 2: tree with 1600 nodes, 2-partition found in 0.166261 secs after 18 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.560196 secs after 59 iterations
+test 4: tree with 1600 nodes, 8-partition found in 1.482543 secs after 155 iterations
+test 5: tree with 1600 nodes, 16-partition found in 3.507541 secs after 365 iterations
+test 6: tree with 1600 nodes, 32-partition found in 7.511841 secs after 761 iterations
+test 7: tree with 1600 nodes, 64-partition found in 17.311533 secs after 1649 iterations
+Round 48:
+test 2: tree with 1600 nodes, 2-partition found in 0.302478 secs after 33 iterations
+test 3: tree with 1600 nodes, 4-partition found in 1.072305 secs after 114 iterations
+test 4: tree with 1600 nodes, 8-partition found in 2.203071 secs after 230 iterations
+test 5: tree with 1600 nodes, 16-partition found in 5.626804 secs after 586 iterations
+test 6: tree with 1600 nodes, 32-partition found in 12.000718 secs after 1217 iterations
+test 7: tree with 1600 nodes, 64-partition found in 26.562554 secs after 2524 iterations
+Round 49:
+test 2: tree with 1600 nodes, 2-partition found in 0.064541 secs after 7 iterations
+test 3: tree with 1600 nodes, 4-partition found in 0.332551 secs after 35 iterations
+test 4: tree with 1600 nodes, 8-partition found in 0.977155 secs after 102 iterations
+test 5: tree with 1600 nodes, 16-partition found in 2.537840 secs after 264 iterations
+test 6: tree with 1600 nodes, 32-partition found in 6.108548 secs after 618 iterations
+test 7: tree with 1600 nodes, 64-partition found in 13.652866 secs after 1291 iterations

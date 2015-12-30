@@ -1,0 +1,350 @@
+Round 0:
+test 2: tree with 400 nodes, 2-partition found in 0.019150 secs after 10 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.089511 secs after 45 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.248077 secs after 120 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.604402 secs after 271 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.517090 secs after 599 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.743538 secs after 1217 iterations
+Round 1:
+test 2: tree with 400 nodes, 2-partition found in 0.009340 secs after 5 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.053923 secs after 27 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.123827 secs after 59 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.382760 secs after 169 iterations
+test 6: tree with 400 nodes, 32-partition found in 0.963092 secs after 376 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.563550 secs after 824 iterations
+Round 2:
+test 2: tree with 400 nodes, 2-partition found in 0.026874 secs after 14 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.077934 secs after 39 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.227335 secs after 110 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.566245 secs after 256 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.400316 secs after 557 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.531666 secs after 1155 iterations
+Round 3:
+test 2: tree with 400 nodes, 2-partition found in 0.031347 secs after 17 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.098262 secs after 50 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.253648 secs after 123 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.648344 secs after 294 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.573923 secs after 624 iterations
+test 7: tree with 400 nodes, 64-partition found in 4.116351 secs after 1336 iterations
+Round 4:
+test 2: tree with 400 nodes, 2-partition found in 0.012611 secs after 7 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.048333 secs after 24 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.129189 secs after 63 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.342413 secs after 155 iterations
+test 6: tree with 400 nodes, 32-partition found in 0.861077 secs after 349 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.252920 secs after 754 iterations
+Round 5:
+test 2: tree with 400 nodes, 2-partition found in 0.030175 secs after 16 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.129606 secs after 65 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.374447 secs after 181 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.836766 secs after 379 iterations
+test 6: tree with 400 nodes, 32-partition found in 2.038807 secs after 818 iterations
+test 7: tree with 400 nodes, 64-partition found in 5.121168 secs after 1685 iterations
+Round 6:
+test 2: tree with 400 nodes, 2-partition found in 0.038008 secs after 20 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.119655 secs after 59 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.325916 secs after 159 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.793455 secs after 359 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.870322 secs after 748 iterations
+test 7: tree with 400 nodes, 64-partition found in 4.774664 secs after 1563 iterations
+Round 7:
+test 2: tree with 400 nodes, 2-partition found in 0.031718 secs after 17 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.095019 secs after 47 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.245534 secs after 118 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.588946 secs after 262 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.460293 secs after 571 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.725939 secs after 1204 iterations
+Round 8:
+test 2: tree with 400 nodes, 2-partition found in 0.014883 secs after 8 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.067252 secs after 34 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.198345 secs after 96 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.442788 secs after 200 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.144851 secs after 456 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.961356 secs after 973 iterations
+Round 9:
+test 2: tree with 400 nodes, 2-partition found in 0.022347 secs after 12 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.086689 secs after 44 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.222815 secs after 107 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.514185 secs after 230 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.250232 secs after 493 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.175841 secs after 1025 iterations
+Round 10:
+test 2: tree with 400 nodes, 2-partition found in 0.013112 secs after 7 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.053680 secs after 27 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.136769 secs after 66 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.397874 secs after 179 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.016436 secs after 405 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.606388 secs after 854 iterations
+Round 11:
+test 2: tree with 400 nodes, 2-partition found in 0.032248 secs after 17 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.101657 secs after 51 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.271450 secs after 131 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.633427 secs after 285 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.590677 secs after 626 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.930813 secs after 1276 iterations
+Round 12:
+test 2: tree with 400 nodes, 2-partition found in 0.037780 secs after 20 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.139380 secs after 71 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.333550 secs after 162 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.788985 secs after 359 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.840456 secs after 744 iterations
+test 7: tree with 400 nodes, 64-partition found in 4.665900 secs after 1560 iterations
+Round 13:
+test 2: tree with 400 nodes, 2-partition found in 0.010957 secs after 6 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.050922 secs after 26 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.126944 secs after 62 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.333261 secs after 150 iterations
+test 6: tree with 400 nodes, 32-partition found in 0.851540 secs after 338 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.261558 secs after 733 iterations
+Round 14:
+test 2: tree with 400 nodes, 2-partition found in 0.010627 secs after 6 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.039566 secs after 20 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.120887 secs after 58 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.338238 secs after 152 iterations
+test 6: tree with 400 nodes, 32-partition found in 0.851897 secs after 339 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.197281 secs after 722 iterations
+Round 15:
+test 2: tree with 400 nodes, 2-partition found in 0.024000 secs after 13 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.080639 secs after 41 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.204274 secs after 99 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.474670 secs after 216 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.259925 secs after 509 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.136993 secs after 1053 iterations
+Round 16:
+test 2: tree with 400 nodes, 2-partition found in 0.034772 secs after 19 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.112797 secs after 57 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.237543 secs after 115 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.573152 secs after 258 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.411884 secs after 556 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.656095 secs after 1179 iterations
+Round 17:
+test 2: tree with 400 nodes, 2-partition found in 0.028532 secs after 15 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.093963 secs after 47 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.234082 secs after 113 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.588481 secs after 266 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.407676 secs after 568 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.559528 secs after 1191 iterations
+Round 18:
+test 2: tree with 400 nodes, 2-partition found in 0.024161 secs after 13 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.075905 secs after 38 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.201559 secs after 97 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.525083 secs after 233 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.226874 secs after 487 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.124805 secs after 1018 iterations
+Round 19:
+test 2: tree with 400 nodes, 2-partition found in 0.022241 secs after 12 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.075038 secs after 38 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.195144 secs after 94 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.482980 secs after 216 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.197036 secs after 477 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.982090 secs after 983 iterations
+Round 20:
+test 2: tree with 400 nodes, 2-partition found in 0.044907 secs after 24 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.132951 secs after 67 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.318317 secs after 154 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.759230 secs after 342 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.812617 secs after 724 iterations
+test 7: tree with 400 nodes, 64-partition found in 4.727893 secs after 1539 iterations
+Round 21:
+test 2: tree with 400 nodes, 2-partition found in 0.024620 secs after 13 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.087431 secs after 43 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.240054 secs after 116 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.539386 secs after 243 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.363708 secs after 542 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.655852 secs after 1183 iterations
+Round 22:
+test 2: tree with 400 nodes, 2-partition found in 0.028723 secs after 16 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.099791 secs after 50 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.255220 secs after 125 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.551691 secs after 253 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.408091 secs after 564 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.473938 secs after 1147 iterations
+Round 23:
+test 2: tree with 400 nodes, 2-partition found in 0.021515 secs after 12 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.069200 secs after 35 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.180288 secs after 87 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.452455 secs after 204 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.166108 secs after 461 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.960801 secs after 963 iterations
+Round 24:
+test 2: tree with 400 nodes, 2-partition found in 0.032144 secs after 17 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.115756 secs after 58 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.247315 secs after 120 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.649289 secs after 292 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.518532 secs after 604 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.871565 secs after 1256 iterations
+Round 25:
+test 2: tree with 400 nodes, 2-partition found in 0.021263 secs after 12 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.097903 secs after 49 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.229873 secs after 111 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.534126 secs after 239 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.292233 secs after 511 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.536732 secs after 1137 iterations
+Round 26:
+test 2: tree with 400 nodes, 2-partition found in 0.011036 secs after 6 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.043231 secs after 22 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.107808 secs after 52 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.292432 secs after 129 iterations
+test 6: tree with 400 nodes, 32-partition found in 0.706252 secs after 278 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.019304 secs after 646 iterations
+Round 27:
+test 2: tree with 400 nodes, 2-partition found in 0.018280 secs after 10 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.066716 secs after 33 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.184410 secs after 89 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.458433 secs after 204 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.129557 secs after 444 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.000354 secs after 967 iterations
+Round 28:
+test 2: tree with 400 nodes, 2-partition found in 0.012876 secs after 7 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.062089 secs after 32 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.159977 secs after 77 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.369584 secs after 165 iterations
+test 6: tree with 400 nodes, 32-partition found in 0.953162 secs after 376 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.502740 secs after 815 iterations
+Round 29:
+test 2: tree with 400 nodes, 2-partition found in 0.028400 secs after 15 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.102640 secs after 51 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.257145 secs after 124 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.644388 secs after 292 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.641348 secs after 652 iterations
+test 7: tree with 400 nodes, 64-partition found in 4.078456 secs after 1332 iterations
+Round 30:
+test 2: tree with 400 nodes, 2-partition found in 0.028756 secs after 15 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.115243 secs after 58 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.275301 secs after 133 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.707128 secs after 320 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.597075 secs after 651 iterations
+test 7: tree with 400 nodes, 64-partition found in 4.206553 secs after 1395 iterations
+Round 31:
+test 2: tree with 400 nodes, 2-partition found in 0.031203 secs after 16 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.117569 secs after 45 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.233747 secs after 112 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.578963 secs after 260 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.433518 secs after 551 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.644526 secs after 1181 iterations
+Round 32:
+test 2: tree with 400 nodes, 2-partition found in 0.050362 secs after 27 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.145153 secs after 72 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.395782 secs after 191 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.814403 secs after 368 iterations
+test 6: tree with 400 nodes, 32-partition found in 2.065803 secs after 819 iterations
+test 7: tree with 400 nodes, 64-partition found in 4.932905 secs after 1636 iterations
+Round 33:
+test 2: tree with 400 nodes, 2-partition found in 0.044624 secs after 24 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.150657 secs after 76 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.371347 secs after 181 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.919309 secs after 418 iterations
+test 6: tree with 400 nodes, 32-partition found in 2.144761 secs after 864 iterations
+test 7: tree with 400 nodes, 64-partition found in 5.359621 secs after 1757 iterations
+Round 34:
+test 2: tree with 400 nodes, 2-partition found in 0.033795 secs after 18 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.115862 secs after 59 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.287308 secs after 140 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.682166 secs after 315 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.711902 secs after 699 iterations
+test 7: tree with 400 nodes, 64-partition found in 4.430398 secs after 1468 iterations
+Round 35:
+test 2: tree with 400 nodes, 2-partition found in 0.011327 secs after 6 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.054884 secs after 27 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.162182 secs after 79 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.403837 secs after 183 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.057037 secs after 423 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.791212 secs after 914 iterations
+Round 36:
+test 2: tree with 400 nodes, 2-partition found in 0.039349 secs after 21 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.126893 secs after 64 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.301218 secs after 145 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.730901 secs after 328 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.710268 secs after 679 iterations
+test 7: tree with 400 nodes, 64-partition found in 4.373247 secs after 1411 iterations
+Round 37:
+test 2: tree with 400 nodes, 2-partition found in 0.021547 secs after 11 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.073634 secs after 37 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.185349 secs after 90 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.466560 secs after 209 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.175892 secs after 466 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.226287 secs after 1038 iterations
+Round 38:
+test 2: tree with 400 nodes, 2-partition found in 0.021854 secs after 12 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.084350 secs after 43 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.214485 secs after 104 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.514271 secs after 234 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.322440 secs after 533 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.385515 secs after 1116 iterations
+Round 39:
+test 2: tree with 400 nodes, 2-partition found in 0.023163 secs after 13 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.071962 secs after 36 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.175122 secs after 84 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.430157 secs after 192 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.047071 secs after 417 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.827333 secs after 918 iterations
+Round 40:
+test 2: tree with 400 nodes, 2-partition found in 0.046691 secs after 25 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.147181 secs after 74 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.360452 secs after 174 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.808987 secs after 365 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.966171 secs after 779 iterations
+test 7: tree with 400 nodes, 64-partition found in 4.951149 secs after 1612 iterations
+Round 41:
+test 2: tree with 400 nodes, 2-partition found in 0.017829 secs after 10 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.072728 secs after 37 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.185155 secs after 90 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.448480 secs after 201 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.127126 secs after 450 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.946625 secs after 967 iterations
+Round 42:
+test 2: tree with 400 nodes, 2-partition found in 0.019812 secs after 11 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.061461 secs after 31 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.162127 secs after 78 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.437369 secs after 196 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.075444 secs after 425 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.738093 secs after 881 iterations
+Round 43:
+test 2: tree with 400 nodes, 2-partition found in 0.025084 secs after 14 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.075543 secs after 38 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.215297 secs after 105 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.512650 secs after 232 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.157437 secs after 467 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.246678 secs after 1061 iterations
+Round 44:
+test 2: tree with 400 nodes, 2-partition found in 0.013760 secs after 7 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.040159 secs after 20 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.114368 secs after 55 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.307437 secs after 138 iterations
+test 6: tree with 400 nodes, 32-partition found in 0.796882 secs after 315 iterations
+test 7: tree with 400 nodes, 64-partition found in 2.143061 secs after 691 iterations
+Round 45:
+test 2: tree with 400 nodes, 2-partition found in 0.023957 secs after 13 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.082722 secs after 42 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.214577 secs after 104 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.513511 secs after 231 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.259678 secs after 506 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.303445 secs after 1083 iterations
+Round 46:
+test 2: tree with 400 nodes, 2-partition found in 0.029341 secs after 16 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.104046 secs after 53 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.259221 secs after 126 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.525978 secs after 240 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.384177 secs after 560 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.508795 secs after 1175 iterations
+Round 47:
+test 2: tree with 400 nodes, 2-partition found in 0.022672 secs after 12 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.081199 secs after 41 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.196452 secs after 95 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.484073 secs after 219 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.187207 secs after 477 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.073042 secs after 1010 iterations
+Round 48:
+test 2: tree with 400 nodes, 2-partition found in 0.024482 secs after 13 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.073940 secs after 37 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.224144 secs after 107 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.492769 secs after 221 iterations
+test 6: tree with 400 nodes, 32-partition found in 1.207035 secs after 477 iterations
+test 7: tree with 400 nodes, 64-partition found in 3.238048 secs after 1049 iterations
+Round 49:
+test 2: tree with 400 nodes, 2-partition found in 0.061131 secs after 33 iterations
+test 3: tree with 400 nodes, 4-partition found in 0.183127 secs after 93 iterations
+test 4: tree with 400 nodes, 8-partition found in 0.438366 secs after 212 iterations
+test 5: tree with 400 nodes, 16-partition found in 0.995980 secs after 452 iterations
+test 6: tree with 400 nodes, 32-partition found in 2.456995 secs after 986 iterations
+test 7: tree with 400 nodes, 64-partition found in 6.156353 secs after 2016 iterations

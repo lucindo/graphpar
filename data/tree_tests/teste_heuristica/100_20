@@ -1,0 +1,8 @@
+100 vertices 2000 edges 50000 weight 4-partition - best 12500 rand 11369 14981 improved 9804 17095 rand wins (0.506 secs)
+100 vertices 2000 edges 50000 weight 4-partition - best 12500 rand 11369 14981 improved 8771 19814 rand wins (0.695 secs)
+100 vertices 2000 edges 50000 weight 8-partition - best 6250 rand 5268 7850 improved 5075 9016 rand wins (0.287 secs)
+100 vertices 2000 edges 50000 weight 8-partition - best 6250 rand 5445 7402 improved 4788 8529 rand wins (2.305 secs)
+100 vertices 2000 edges 50000 weight 16-partition - best 3125 rand 2491 5730 improved 2183 5358 rand wins (0.434 secs)
+100 vertices 2000 edges 50000 weight 16-partition - best 3125 rand 2534 4201 improved 2155 7061 rand wins (4.798 secs)
+100 vertices 2000 edges 49984 weight 32-partition - best 1562 rand 1095 2758 improved 1130 2543 improved wins (1.064 secs)
+100 vertices 2000 edges 49984 weight 32-partition - best 1562 rand 1157 2977 improved 931 3916 rand wins (13.952 secs)

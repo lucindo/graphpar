@@ -1,0 +1,350 @@
+Round 0:
+test 2: tree with 2100 nodes, 2-partition found in 0.162036 secs after 14 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.662472 secs after 54 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.932879 secs after 158 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.562914 secs after 372 iterations
+test 6: tree with 2100 nodes, 32-partition found in 10.749824 secs after 859 iterations
+test 7: tree with 2100 nodes, 64-partition found in 24.530568 secs after 1850 iterations
+Round 1:
+test 2: tree with 2100 nodes, 2-partition found in 0.294546 secs after 25 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.918431 secs after 75 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.358838 secs after 192 iterations
+test 5: tree with 2100 nodes, 16-partition found in 5.285028 secs after 427 iterations
+test 6: tree with 2100 nodes, 32-partition found in 12.083335 secs after 952 iterations
+test 7: tree with 2100 nodes, 64-partition found in 26.537986 secs after 1967 iterations
+Round 2:
+test 2: tree with 2100 nodes, 2-partition found in 0.305009 secs after 28 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.909922 secs after 75 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.352604 secs after 192 iterations
+test 5: tree with 2100 nodes, 16-partition found in 5.215021 secs after 422 iterations
+test 6: tree with 2100 nodes, 32-partition found in 11.613085 secs after 919 iterations
+test 7: tree with 2100 nodes, 64-partition found in 26.002669 secs after 1936 iterations
+Round 3:
+test 2: tree with 2100 nodes, 2-partition found in 0.420231 secs after 35 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.378239 secs after 111 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.591606 secs after 290 iterations
+test 5: tree with 2100 nodes, 16-partition found in 7.922045 secs after 638 iterations
+test 6: tree with 2100 nodes, 32-partition found in 17.855643 secs after 1408 iterations
+test 7: tree with 2100 nodes, 64-partition found in 38.566802 secs after 2874 iterations
+Round 4:
+test 2: tree with 2100 nodes, 2-partition found in 0.177739 secs after 15 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.673313 secs after 55 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.701697 secs after 138 iterations
+test 5: tree with 2100 nodes, 16-partition found in 3.973530 secs after 322 iterations
+test 6: tree with 2100 nodes, 32-partition found in 8.856783 secs after 703 iterations
+test 7: tree with 2100 nodes, 64-partition found in 20.589491 secs after 1537 iterations
+Round 5:
+test 2: tree with 2100 nodes, 2-partition found in 0.280566 secs after 24 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.915104 secs after 74 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.313038 secs after 187 iterations
+test 5: tree with 2100 nodes, 16-partition found in 5.039326 secs after 405 iterations
+test 6: tree with 2100 nodes, 32-partition found in 10.976476 secs after 864 iterations
+test 7: tree with 2100 nodes, 64-partition found in 25.520708 secs after 1889 iterations
+Round 6:
+test 2: tree with 2100 nodes, 2-partition found in 0.234373 secs after 20 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.759627 secs after 62 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.986104 secs after 161 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.364696 secs after 352 iterations
+test 6: tree with 2100 nodes, 32-partition found in 10.214056 secs after 806 iterations
+test 7: tree with 2100 nodes, 64-partition found in 22.908704 secs after 1704 iterations
+Round 7:
+test 2: tree with 2100 nodes, 2-partition found in 0.183779 secs after 15 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.750411 secs after 61 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.197869 secs after 179 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.822078 secs after 389 iterations
+test 6: tree with 2100 nodes, 32-partition found in 10.352446 secs after 816 iterations
+test 7: tree with 2100 nodes, 64-partition found in 23.005017 secs after 1711 iterations
+Round 8:
+test 2: tree with 2100 nodes, 2-partition found in 0.096607 secs after 8 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.692193 secs after 56 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.137480 secs after 174 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.916014 secs after 398 iterations
+test 6: tree with 2100 nodes, 32-partition found in 11.201553 secs after 888 iterations
+test 7: tree with 2100 nodes, 64-partition found in 24.991096 secs after 1862 iterations
+Round 9:
+test 2: tree with 2100 nodes, 2-partition found in 0.249955 secs after 21 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.844924 secs after 69 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.070644 secs after 168 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.985914 secs after 404 iterations
+test 6: tree with 2100 nodes, 32-partition found in 10.994104 secs after 870 iterations
+test 7: tree with 2100 nodes, 64-partition found in 25.407973 secs after 1889 iterations
+Round 10:
+test 2: tree with 2100 nodes, 2-partition found in 0.233227 secs after 20 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.692070 secs after 56 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.887193 secs after 153 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.371074 secs after 352 iterations
+test 6: tree with 2100 nodes, 32-partition found in 10.056675 secs after 792 iterations
+test 7: tree with 2100 nodes, 64-partition found in 22.591873 secs after 1665 iterations
+Round 11:
+test 2: tree with 2100 nodes, 2-partition found in 0.117106 secs after 10 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.606570 secs after 50 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.520750 secs after 124 iterations
+test 5: tree with 2100 nodes, 16-partition found in 3.945829 secs after 321 iterations
+test 6: tree with 2100 nodes, 32-partition found in 8.640449 secs after 685 iterations
+test 7: tree with 2100 nodes, 64-partition found in 19.442821 secs after 1452 iterations
+Round 12:
+test 2: tree with 2100 nodes, 2-partition found in 0.106487 secs after 9 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.298475 secs after 24 iterations
+test 4: tree with 2100 nodes, 8-partition found in 0.983403 secs after 80 iterations
+test 5: tree with 2100 nodes, 16-partition found in 2.635464 secs after 214 iterations
+test 6: tree with 2100 nodes, 32-partition found in 6.468674 secs after 511 iterations
+test 7: tree with 2100 nodes, 64-partition found in 15.508112 secs after 1148 iterations
+Round 13:
+test 2: tree with 2100 nodes, 2-partition found in 0.330505 secs after 27 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.131190 secs after 92 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.692101 secs after 219 iterations
+test 5: tree with 2100 nodes, 16-partition found in 5.949424 secs after 482 iterations
+test 6: tree with 2100 nodes, 32-partition found in 13.532572 secs after 1073 iterations
+test 7: tree with 2100 nodes, 64-partition found in 30.301380 secs after 2246 iterations
+Round 14:
+test 2: tree with 2100 nodes, 2-partition found in 0.257364 secs after 22 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.104258 secs after 91 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.673598 secs after 218 iterations
+test 5: tree with 2100 nodes, 16-partition found in 6.118351 secs after 495 iterations
+test 6: tree with 2100 nodes, 32-partition found in 13.216151 secs after 1050 iterations
+test 7: tree with 2100 nodes, 64-partition found in 29.479635 secs after 2205 iterations
+Round 15:
+test 2: tree with 2100 nodes, 2-partition found in 0.447769 secs after 39 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.798746 secs after 149 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.770676 secs after 306 iterations
+test 5: tree with 2100 nodes, 16-partition found in 7.780892 secs after 630 iterations
+test 6: tree with 2100 nodes, 32-partition found in 16.995259 secs after 1351 iterations
+test 7: tree with 2100 nodes, 64-partition found in 40.640608 secs after 3035 iterations
+Round 16:
+test 2: tree with 2100 nodes, 2-partition found in 0.173938 secs after 15 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.575925 secs after 47 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.703695 secs after 138 iterations
+test 5: tree with 2100 nodes, 16-partition found in 3.975553 secs after 321 iterations
+test 6: tree with 2100 nodes, 32-partition found in 9.541979 secs after 754 iterations
+test 7: tree with 2100 nodes, 64-partition found in 21.085055 secs after 1562 iterations
+Round 17:
+test 2: tree with 2100 nodes, 2-partition found in 0.317302 secs after 26 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.100809 secs after 89 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.784758 secs after 226 iterations
+test 5: tree with 2100 nodes, 16-partition found in 6.320779 secs after 512 iterations
+test 6: tree with 2100 nodes, 32-partition found in 13.715145 secs after 1089 iterations
+test 7: tree with 2100 nodes, 64-partition found in 31.854638 secs after 2375 iterations
+Round 18:
+test 2: tree with 2100 nodes, 2-partition found in 0.458382 secs after 40 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.438960 secs after 117 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.485423 secs after 283 iterations
+test 5: tree with 2100 nodes, 16-partition found in 7.289747 secs after 592 iterations
+test 6: tree with 2100 nodes, 32-partition found in 16.056091 secs after 1283 iterations
+test 7: tree with 2100 nodes, 64-partition found in 35.529015 secs after 2664 iterations
+Round 19:
+test 2: tree with 2100 nodes, 2-partition found in 0.192558 secs after 17 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.786031 secs after 64 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.206596 secs after 179 iterations
+test 5: tree with 2100 nodes, 16-partition found in 5.046213 secs after 408 iterations
+test 6: tree with 2100 nodes, 32-partition found in 11.097342 secs after 878 iterations
+test 7: tree with 2100 nodes, 64-partition found in 25.279855 secs after 1882 iterations
+Round 20:
+test 2: tree with 2100 nodes, 2-partition found in 0.097527 secs after 9 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.257534 secs after 21 iterations
+test 4: tree with 2100 nodes, 8-partition found in 0.943192 secs after 77 iterations
+test 5: tree with 2100 nodes, 16-partition found in 2.610837 secs after 212 iterations
+test 6: tree with 2100 nodes, 32-partition found in 5.974544 secs after 474 iterations
+test 7: tree with 2100 nodes, 64-partition found in 14.585165 secs after 1085 iterations
+Round 21:
+test 2: tree with 2100 nodes, 2-partition found in 0.391459 secs after 33 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.246620 secs after 101 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.210954 secs after 261 iterations
+test 5: tree with 2100 nodes, 16-partition found in 7.051309 secs after 571 iterations
+test 6: tree with 2100 nodes, 32-partition found in 15.009067 secs after 1195 iterations
+test 7: tree with 2100 nodes, 64-partition found in 34.270759 secs after 2563 iterations
+Round 22:
+test 2: tree with 2100 nodes, 2-partition found in 0.190833 secs after 16 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.669729 secs after 54 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.851678 secs after 150 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.083591 secs after 329 iterations
+test 6: tree with 2100 nodes, 32-partition found in 9.358371 secs after 735 iterations
+test 7: tree with 2100 nodes, 64-partition found in 22.470868 secs after 1655 iterations
+Round 23:
+test 2: tree with 2100 nodes, 2-partition found in 0.340290 secs after 28 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.037722 secs after 84 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.524547 secs after 204 iterations
+test 5: tree with 2100 nodes, 16-partition found in 5.641373 secs after 455 iterations
+test 6: tree with 2100 nodes, 32-partition found in 12.437334 secs after 984 iterations
+test 7: tree with 2100 nodes, 64-partition found in 27.921179 secs after 2072 iterations
+Round 24:
+test 2: tree with 2100 nodes, 2-partition found in 0.436677 secs after 37 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.492348 secs after 123 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.014643 secs after 244 iterations
+test 5: tree with 2100 nodes, 16-partition found in 7.017881 secs after 567 iterations
+test 6: tree with 2100 nodes, 32-partition found in 15.316838 secs after 1213 iterations
+test 7: tree with 2100 nodes, 64-partition found in 34.414878 secs after 2571 iterations
+Round 25:
+test 2: tree with 2100 nodes, 2-partition found in 0.282004 secs after 24 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.920333 secs after 74 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.492978 secs after 201 iterations
+test 5: tree with 2100 nodes, 16-partition found in 5.324933 secs after 429 iterations
+test 6: tree with 2100 nodes, 32-partition found in 11.891180 secs after 939 iterations
+test 7: tree with 2100 nodes, 64-partition found in 26.641255 secs after 1990 iterations
+Round 26:
+test 2: tree with 2100 nodes, 2-partition found in 0.249851 secs after 21 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.763987 secs after 62 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.826884 secs after 148 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.766451 secs after 386 iterations
+test 6: tree with 2100 nodes, 32-partition found in 10.201511 secs after 806 iterations
+test 7: tree with 2100 nodes, 64-partition found in 23.177298 secs after 1721 iterations
+Round 27:
+test 2: tree with 2100 nodes, 2-partition found in 0.246468 secs after 22 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.790330 secs after 64 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.902927 secs after 154 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.924398 secs after 397 iterations
+test 6: tree with 2100 nodes, 32-partition found in 10.877991 secs after 857 iterations
+test 7: tree with 2100 nodes, 64-partition found in 24.626274 secs after 1829 iterations
+Round 28:
+test 2: tree with 2100 nodes, 2-partition found in 0.117855 secs after 10 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.518363 secs after 42 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.629957 secs after 132 iterations
+test 5: tree with 2100 nodes, 16-partition found in 3.402275 secs after 275 iterations
+test 6: tree with 2100 nodes, 32-partition found in 8.429188 secs after 665 iterations
+test 7: tree with 2100 nodes, 64-partition found in 19.113940 secs after 1420 iterations
+Round 29:
+test 2: tree with 2100 nodes, 2-partition found in 0.200635 secs after 17 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.651036 secs after 53 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.867765 secs after 152 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.133211 secs after 335 iterations
+test 6: tree with 2100 nodes, 32-partition found in 9.774348 secs after 770 iterations
+test 7: tree with 2100 nodes, 64-partition found in 22.093804 secs after 1656 iterations
+Round 30:
+test 2: tree with 2100 nodes, 2-partition found in 0.146476 secs after 12 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.670298 secs after 54 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.921131 secs after 156 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.644870 secs after 375 iterations
+test 6: tree with 2100 nodes, 32-partition found in 9.871872 secs after 784 iterations
+test 7: tree with 2100 nodes, 64-partition found in 23.894432 secs after 1776 iterations
+Round 31:
+test 2: tree with 2100 nodes, 2-partition found in 0.128953 secs after 11 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.655021 secs after 53 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.898196 secs after 154 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.447040 secs after 360 iterations
+test 6: tree with 2100 nodes, 32-partition found in 10.431883 secs after 825 iterations
+test 7: tree with 2100 nodes, 64-partition found in 24.270639 secs after 1801 iterations
+Round 32:
+test 2: tree with 2100 nodes, 2-partition found in 0.357732 secs after 29 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.312178 secs after 106 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.330365 secs after 270 iterations
+test 5: tree with 2100 nodes, 16-partition found in 7.635309 secs after 618 iterations
+test 6: tree with 2100 nodes, 32-partition found in 16.756746 secs after 1328 iterations
+test 7: tree with 2100 nodes, 64-partition found in 36.326738 secs after 2727 iterations
+Round 33:
+test 2: tree with 2100 nodes, 2-partition found in 0.480095 secs after 41 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.463348 secs after 119 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.426549 secs after 278 iterations
+test 5: tree with 2100 nodes, 16-partition found in 7.750140 secs after 628 iterations
+test 6: tree with 2100 nodes, 32-partition found in 16.160009 secs after 1285 iterations
+test 7: tree with 2100 nodes, 64-partition found in 37.872824 secs after 2822 iterations
+Round 34:
+test 2: tree with 2100 nodes, 2-partition found in 0.343492 secs after 25 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.928240 secs after 70 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.414052 secs after 192 iterations
+test 5: tree with 2100 nodes, 16-partition found in 5.646548 secs after 443 iterations
+test 6: tree with 2100 nodes, 32-partition found in 11.816265 secs after 921 iterations
+test 7: tree with 2100 nodes, 64-partition found in 28.654831 secs after 2026 iterations
+Round 35:
+test 2: tree with 2100 nodes, 2-partition found in 0.393760 secs after 33 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.271215 secs after 103 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.150863 secs after 254 iterations
+test 5: tree with 2100 nodes, 16-partition found in 7.453173 secs after 600 iterations
+test 6: tree with 2100 nodes, 32-partition found in 15.212342 secs after 1201 iterations
+test 7: tree with 2100 nodes, 64-partition found in 35.022534 secs after 2598 iterations
+Round 36:
+test 2: tree with 2100 nodes, 2-partition found in 0.313654 secs after 27 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.975064 secs after 79 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.409969 secs after 194 iterations
+test 5: tree with 2100 nodes, 16-partition found in 5.665757 secs after 455 iterations
+test 6: tree with 2100 nodes, 32-partition found in 12.189699 secs after 957 iterations
+test 7: tree with 2100 nodes, 64-partition found in 27.800014 secs after 2053 iterations
+Round 37:
+test 2: tree with 2100 nodes, 2-partition found in 0.498778 secs after 43 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.445359 secs after 117 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.936697 secs after 318 iterations
+test 5: tree with 2100 nodes, 16-partition found in 8.021755 secs after 642 iterations
+test 6: tree with 2100 nodes, 32-partition found in 16.709854 secs after 1320 iterations
+test 7: tree with 2100 nodes, 64-partition found in 36.612552 secs after 2724 iterations
+Round 38:
+test 2: tree with 2100 nodes, 2-partition found in 0.205632 secs after 17 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.663044 secs after 54 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.733317 secs after 139 iterations
+test 5: tree with 2100 nodes, 16-partition found in 3.863733 secs after 310 iterations
+test 6: tree with 2100 nodes, 32-partition found in 8.851579 secs after 697 iterations
+test 7: tree with 2100 nodes, 64-partition found in 20.713536 secs after 1515 iterations
+Round 39:
+test 2: tree with 2100 nodes, 2-partition found in 0.166939 secs after 14 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.734611 secs after 59 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.007630 secs after 162 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.086171 secs after 329 iterations
+test 6: tree with 2100 nodes, 32-partition found in 9.245479 secs after 730 iterations
+test 7: tree with 2100 nodes, 64-partition found in 21.402440 secs after 1595 iterations
+Round 40:
+test 2: tree with 2100 nodes, 2-partition found in 0.144336 secs after 12 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.572879 secs after 47 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.610199 secs after 130 iterations
+test 5: tree with 2100 nodes, 16-partition found in 3.473098 secs after 278 iterations
+test 6: tree with 2100 nodes, 32-partition found in 8.254973 secs after 650 iterations
+test 7: tree with 2100 nodes, 64-partition found in 19.406003 secs after 1434 iterations
+Round 41:
+test 2: tree with 2100 nodes, 2-partition found in 0.249611 secs after 21 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.790927 secs after 63 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.971379 secs after 158 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.510548 secs after 364 iterations
+test 6: tree with 2100 nodes, 32-partition found in 10.726874 secs after 846 iterations
+test 7: tree with 2100 nodes, 64-partition found in 24.025983 secs after 1772 iterations
+Round 42:
+test 2: tree with 2100 nodes, 2-partition found in 0.233178 secs after 19 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.858030 secs after 69 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.317953 secs after 187 iterations
+test 5: tree with 2100 nodes, 16-partition found in 5.402362 secs after 434 iterations
+test 6: tree with 2100 nodes, 32-partition found in 11.911145 secs after 935 iterations
+test 7: tree with 2100 nodes, 64-partition found in 26.469094 secs after 1951 iterations
+Round 43:
+test 2: tree with 2100 nodes, 2-partition found in 0.423497 secs after 36 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.474761 secs after 119 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.524799 secs after 284 iterations
+test 5: tree with 2100 nodes, 16-partition found in 7.903532 secs after 633 iterations
+test 6: tree with 2100 nodes, 32-partition found in 16.996742 secs after 1335 iterations
+test 7: tree with 2100 nodes, 64-partition found in 35.391767 secs after 2630 iterations
+Round 44:
+test 2: tree with 2100 nodes, 2-partition found in 0.202287 secs after 17 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.595978 secs after 48 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.674020 secs after 135 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.237103 secs after 339 iterations
+test 6: tree with 2100 nodes, 32-partition found in 9.656656 secs after 758 iterations
+test 7: tree with 2100 nodes, 64-partition found in 21.101066 secs after 1572 iterations
+Round 45:
+test 2: tree with 2100 nodes, 2-partition found in 0.236584 secs after 20 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.681866 secs after 55 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.874925 secs after 152 iterations
+test 5: tree with 2100 nodes, 16-partition found in 4.484160 secs after 358 iterations
+test 6: tree with 2100 nodes, 32-partition found in 9.829747 secs after 774 iterations
+test 7: tree with 2100 nodes, 64-partition found in 22.155959 secs after 1647 iterations
+Round 46:
+test 2: tree with 2100 nodes, 2-partition found in 0.134161 secs after 11 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.557854 secs after 45 iterations
+test 4: tree with 2100 nodes, 8-partition found in 1.539542 secs after 124 iterations
+test 5: tree with 2100 nodes, 16-partition found in 3.876273 secs after 310 iterations
+test 6: tree with 2100 nodes, 32-partition found in 8.539546 secs after 667 iterations
+test 7: tree with 2100 nodes, 64-partition found in 19.757012 secs after 1443 iterations
+Round 47:
+test 2: tree with 2100 nodes, 2-partition found in 0.428704 secs after 35 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.680093 secs after 135 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.733326 secs after 299 iterations
+test 5: tree with 2100 nodes, 16-partition found in 8.693342 secs after 698 iterations
+test 6: tree with 2100 nodes, 32-partition found in 17.655558 secs after 1392 iterations
+test 7: tree with 2100 nodes, 64-partition found in 40.497413 secs after 3018 iterations
+Round 48:
+test 2: tree with 2100 nodes, 2-partition found in 0.367779 secs after 30 iterations
+test 3: tree with 2100 nodes, 4-partition found in 1.345976 secs after 108 iterations
+test 4: tree with 2100 nodes, 8-partition found in 3.191369 secs after 257 iterations
+test 5: tree with 2100 nodes, 16-partition found in 7.580493 secs after 605 iterations
+test 6: tree with 2100 nodes, 32-partition found in 15.881039 secs after 1249 iterations
+test 7: tree with 2100 nodes, 64-partition found in 35.234357 secs after 2606 iterations
+Round 49:
+test 2: tree with 2100 nodes, 2-partition found in 0.246885 secs after 21 iterations
+test 3: tree with 2100 nodes, 4-partition found in 0.879129 secs after 71 iterations
+test 4: tree with 2100 nodes, 8-partition found in 2.478207 secs after 200 iterations
+test 5: tree with 2100 nodes, 16-partition found in 5.656152 secs after 454 iterations
+test 6: tree with 2100 nodes, 32-partition found in 12.156698 secs after 954 iterations
+test 7: tree with 2100 nodes, 64-partition found in 27.506829 secs after 2040 iterations

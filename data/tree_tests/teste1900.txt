@@ -1,0 +1,350 @@
+Round 0:
+test 2: tree with 1900 nodes, 2-partition found in 0.296888 secs after 27 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.026970 secs after 86 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.701556 secs after 225 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.528131 secs after 457 iterations
+test 6: tree with 1900 nodes, 32-partition found in 12.851234 secs after 1039 iterations
+test 7: tree with 1900 nodes, 64-partition found in 28.999270 secs after 2189 iterations
+Round 1:
+test 2: tree with 1900 nodes, 2-partition found in 0.088791 secs after 8 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.384238 secs after 32 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.168360 secs after 97 iterations
+test 5: tree with 1900 nodes, 16-partition found in 2.930113 secs after 241 iterations
+test 6: tree with 1900 nodes, 32-partition found in 7.004078 secs after 562 iterations
+test 7: tree with 1900 nodes, 64-partition found in 16.073176 secs after 1215 iterations
+Round 2:
+test 2: tree with 1900 nodes, 2-partition found in 0.346503 secs after 31 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.244630 secs after 103 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.894559 secs after 238 iterations
+test 5: tree with 1900 nodes, 16-partition found in 6.509864 secs after 535 iterations
+test 6: tree with 1900 nodes, 32-partition found in 14.334016 secs after 1153 iterations
+test 7: tree with 1900 nodes, 64-partition found in 32.083837 secs after 2422 iterations
+Round 3:
+test 2: tree with 1900 nodes, 2-partition found in 0.362069 secs after 34 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.111448 secs after 92 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.866496 secs after 236 iterations
+test 5: tree with 1900 nodes, 16-partition found in 7.020827 secs after 572 iterations
+test 6: tree with 1900 nodes, 32-partition found in 13.566010 secs after 1082 iterations
+test 7: tree with 1900 nodes, 64-partition found in 32.443712 secs after 2426 iterations
+Round 4:
+test 2: tree with 1900 nodes, 2-partition found in 0.342382 secs after 29 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.165145 secs after 96 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.999101 secs after 246 iterations
+test 5: tree with 1900 nodes, 16-partition found in 6.728174 secs after 551 iterations
+test 6: tree with 1900 nodes, 32-partition found in 14.011576 secs after 1122 iterations
+test 7: tree with 1900 nodes, 64-partition found in 31.092371 secs after 2348 iterations
+Round 5:
+test 2: tree with 1900 nodes, 2-partition found in 0.332600 secs after 29 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.146883 secs after 95 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.742139 secs after 225 iterations
+test 5: tree with 1900 nodes, 16-partition found in 6.099184 secs after 498 iterations
+test 6: tree with 1900 nodes, 32-partition found in 14.066962 secs after 1121 iterations
+test 7: tree with 1900 nodes, 64-partition found in 30.733774 secs after 2315 iterations
+Round 6:
+test 2: tree with 1900 nodes, 2-partition found in 0.324675 secs after 29 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.061262 secs after 88 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.510154 secs after 206 iterations
+test 5: tree with 1900 nodes, 16-partition found in 6.044308 secs after 494 iterations
+test 6: tree with 1900 nodes, 32-partition found in 12.601753 secs after 1009 iterations
+test 7: tree with 1900 nodes, 64-partition found in 29.011851 secs after 2201 iterations
+Round 7:
+test 2: tree with 1900 nodes, 2-partition found in 0.202408 secs after 18 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.906795 secs after 76 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.013025 secs after 166 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.743363 secs after 391 iterations
+test 6: tree with 1900 nodes, 32-partition found in 10.645315 secs after 861 iterations
+test 7: tree with 1900 nodes, 64-partition found in 23.898625 secs after 1832 iterations
+Round 8:
+test 2: tree with 1900 nodes, 2-partition found in 0.238780 secs after 21 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.747085 secs after 62 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.829479 secs after 151 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.580161 secs after 376 iterations
+test 6: tree with 1900 nodes, 32-partition found in 9.810337 secs after 789 iterations
+test 7: tree with 1900 nodes, 64-partition found in 22.501131 secs after 1706 iterations
+Round 9:
+test 2: tree with 1900 nodes, 2-partition found in 0.270389 secs after 23 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.896096 secs after 75 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.064149 secs after 170 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.018052 secs after 412 iterations
+test 6: tree with 1900 nodes, 32-partition found in 10.636148 secs after 854 iterations
+test 7: tree with 1900 nodes, 64-partition found in 24.436968 secs after 1851 iterations
+Round 10:
+test 2: tree with 1900 nodes, 2-partition found in 0.152534 secs after 13 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.605367 secs after 50 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.892677 secs after 156 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.682940 secs after 385 iterations
+test 6: tree with 1900 nodes, 32-partition found in 10.724322 secs after 862 iterations
+test 7: tree with 1900 nodes, 64-partition found in 24.519693 secs after 1865 iterations
+Round 11:
+test 2: tree with 1900 nodes, 2-partition found in 0.201217 secs after 18 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.745588 secs after 62 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.836946 secs after 151 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.510834 secs after 369 iterations
+test 6: tree with 1900 nodes, 32-partition found in 9.943862 secs after 794 iterations
+test 7: tree with 1900 nodes, 64-partition found in 23.149681 secs after 1739 iterations
+Round 12:
+test 2: tree with 1900 nodes, 2-partition found in 0.218892 secs after 19 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.745152 secs after 62 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.803068 secs after 149 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.482123 secs after 367 iterations
+test 6: tree with 1900 nodes, 32-partition found in 9.830634 secs after 790 iterations
+test 7: tree with 1900 nodes, 64-partition found in 22.750268 secs after 1718 iterations
+Round 13:
+test 2: tree with 1900 nodes, 2-partition found in 0.316461 secs after 27 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.053003 secs after 87 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.564228 secs after 211 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.726685 secs after 471 iterations
+test 6: tree with 1900 nodes, 32-partition found in 12.647151 secs after 1015 iterations
+test 7: tree with 1900 nodes, 64-partition found in 28.160837 secs after 2119 iterations
+Round 14:
+test 2: tree with 1900 nodes, 2-partition found in 0.214180 secs after 19 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.858584 secs after 71 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.179106 secs after 179 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.062406 secs after 413 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.107280 secs after 887 iterations
+test 7: tree with 1900 nodes, 64-partition found in 24.660051 secs after 1863 iterations
+Round 15:
+test 2: tree with 1900 nodes, 2-partition found in 0.260591 secs after 23 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.918842 secs after 76 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.174735 secs after 178 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.193391 secs after 420 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.846320 secs after 943 iterations
+test 7: tree with 1900 nodes, 64-partition found in 25.341578 secs after 1906 iterations
+Round 16:
+test 2: tree with 1900 nodes, 2-partition found in 0.289123 secs after 25 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.916329 secs after 75 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.415800 secs after 198 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.575441 secs after 456 iterations
+test 6: tree with 1900 nodes, 32-partition found in 12.461585 secs after 997 iterations
+test 7: tree with 1900 nodes, 64-partition found in 27.519772 secs after 2079 iterations
+Round 17:
+test 2: tree with 1900 nodes, 2-partition found in 0.350200 secs after 32 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.076128 secs after 88 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.736527 secs after 225 iterations
+test 5: tree with 1900 nodes, 16-partition found in 6.112397 secs after 499 iterations
+test 6: tree with 1900 nodes, 32-partition found in 13.451811 secs after 1076 iterations
+test 7: tree with 1900 nodes, 64-partition found in 29.194743 secs after 2212 iterations
+Round 18:
+test 2: tree with 1900 nodes, 2-partition found in 0.283129 secs after 25 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.971053 secs after 81 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.194522 secs after 180 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.682427 secs after 383 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.088011 secs after 886 iterations
+test 7: tree with 1900 nodes, 64-partition found in 24.643286 secs after 1856 iterations
+Round 19:
+test 2: tree with 1900 nodes, 2-partition found in 0.283047 secs after 26 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.867430 secs after 72 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.345726 secs after 194 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.005581 secs after 410 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.155970 secs after 891 iterations
+test 7: tree with 1900 nodes, 64-partition found in 24.949252 secs after 1879 iterations
+Round 20:
+test 2: tree with 1900 nodes, 2-partition found in 0.203094 secs after 17 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.870091 secs after 72 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.161139 secs after 178 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.844354 secs after 397 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.161962 secs after 895 iterations
+test 7: tree with 1900 nodes, 64-partition found in 24.924325 secs after 1879 iterations
+Round 21:
+test 2: tree with 1900 nodes, 2-partition found in 0.304989 secs after 27 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.958685 secs after 80 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.559517 secs after 211 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.795882 secs after 473 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.956577 secs after 956 iterations
+test 7: tree with 1900 nodes, 64-partition found in 26.168876 secs after 1972 iterations
+Round 22:
+test 2: tree with 1900 nodes, 2-partition found in 0.431921 secs after 37 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.452346 secs after 120 iterations
+test 4: tree with 1900 nodes, 8-partition found in 3.253475 secs after 266 iterations
+test 5: tree with 1900 nodes, 16-partition found in 7.399111 secs after 603 iterations
+test 6: tree with 1900 nodes, 32-partition found in 16.379999 secs after 1306 iterations
+test 7: tree with 1900 nodes, 64-partition found in 35.970123 secs after 2695 iterations
+Round 23:
+test 2: tree with 1900 nodes, 2-partition found in 0.304796 secs after 28 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.920890 secs after 77 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.305455 secs after 191 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.165564 secs after 425 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.248565 secs after 905 iterations
+test 7: tree with 1900 nodes, 64-partition found in 25.290812 secs after 1916 iterations
+Round 24:
+test 2: tree with 1900 nodes, 2-partition found in 0.198655 secs after 17 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.785630 secs after 65 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.172677 secs after 179 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.418543 secs after 446 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.732865 secs after 942 iterations
+test 7: tree with 1900 nodes, 64-partition found in 26.209923 secs after 1975 iterations
+Round 25:
+test 2: tree with 1900 nodes, 2-partition found in 0.227833 secs after 20 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.705224 secs after 58 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.118299 secs after 176 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.546469 secs after 374 iterations
+test 6: tree with 1900 nodes, 32-partition found in 10.754728 secs after 863 iterations
+test 7: tree with 1900 nodes, 64-partition found in 24.087208 secs after 1819 iterations
+Round 26:
+test 2: tree with 1900 nodes, 2-partition found in 0.332915 secs after 29 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.919908 secs after 76 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.382926 secs after 197 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.257117 secs after 431 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.263075 secs after 905 iterations
+test 7: tree with 1900 nodes, 64-partition found in 26.305009 secs after 1985 iterations
+Round 27:
+test 2: tree with 1900 nodes, 2-partition found in 0.208289 secs after 18 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.707858 secs after 59 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.844474 secs after 153 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.376713 secs after 361 iterations
+test 6: tree with 1900 nodes, 32-partition found in 10.275308 secs after 828 iterations
+test 7: tree with 1900 nodes, 64-partition found in 22.405647 secs after 1705 iterations
+Round 28:
+test 2: tree with 1900 nodes, 2-partition found in 0.214216 secs after 19 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.614611 secs after 51 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.832214 secs after 152 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.210204 secs after 345 iterations
+test 6: tree with 1900 nodes, 32-partition found in 9.019755 secs after 720 iterations
+test 7: tree with 1900 nodes, 64-partition found in 20.111896 secs after 1514 iterations
+Round 29:
+test 2: tree with 1900 nodes, 2-partition found in 0.357817 secs after 32 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.516627 secs after 127 iterations
+test 4: tree with 1900 nodes, 8-partition found in 3.647424 secs after 302 iterations
+test 5: tree with 1900 nodes, 16-partition found in 7.748088 secs after 636 iterations
+test 6: tree with 1900 nodes, 32-partition found in 15.923793 secs after 1284 iterations
+test 7: tree with 1900 nodes, 64-partition found in 36.587124 secs after 2773 iterations
+Round 30:
+test 2: tree with 1900 nodes, 2-partition found in 0.136356 secs after 12 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.476213 secs after 40 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.262865 secs after 104 iterations
+test 5: tree with 1900 nodes, 16-partition found in 3.065118 secs after 252 iterations
+test 6: tree with 1900 nodes, 32-partition found in 6.908632 secs after 555 iterations
+test 7: tree with 1900 nodes, 64-partition found in 15.731238 secs after 1190 iterations
+Round 31:
+test 2: tree with 1900 nodes, 2-partition found in 0.221785 secs after 20 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.928925 secs after 79 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.955571 secs after 161 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.312765 secs after 354 iterations
+test 6: tree with 1900 nodes, 32-partition found in 10.524769 secs after 844 iterations
+test 7: tree with 1900 nodes, 64-partition found in 23.282419 secs after 1762 iterations
+Round 32:
+test 2: tree with 1900 nodes, 2-partition found in 0.055589 secs after 5 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.262403 secs after 22 iterations
+test 4: tree with 1900 nodes, 8-partition found in 0.882141 secs after 73 iterations
+test 5: tree with 1900 nodes, 16-partition found in 2.231831 secs after 183 iterations
+test 6: tree with 1900 nodes, 32-partition found in 5.492884 secs after 438 iterations
+test 7: tree with 1900 nodes, 64-partition found in 12.878626 secs after 966 iterations
+Round 33:
+test 2: tree with 1900 nodes, 2-partition found in 0.248022 secs after 21 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.808500 secs after 67 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.065292 secs after 171 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.743310 secs after 391 iterations
+test 6: tree with 1900 nodes, 32-partition found in 10.734607 secs after 869 iterations
+test 7: tree with 1900 nodes, 64-partition found in 24.382935 secs after 1850 iterations
+Round 34:
+test 2: tree with 1900 nodes, 2-partition found in 0.251440 secs after 21 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.857098 secs after 71 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.242556 secs after 185 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.271150 secs after 433 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.626784 secs after 935 iterations
+test 7: tree with 1900 nodes, 64-partition found in 26.755741 secs after 2022 iterations
+Round 35:
+test 2: tree with 1900 nodes, 2-partition found in 0.298939 secs after 26 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.079033 secs after 89 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.595699 secs after 213 iterations
+test 5: tree with 1900 nodes, 16-partition found in 6.321047 secs after 517 iterations
+test 6: tree with 1900 nodes, 32-partition found in 14.043665 secs after 1129 iterations
+test 7: tree with 1900 nodes, 64-partition found in 30.922677 secs after 2354 iterations
+Round 36:
+test 2: tree with 1900 nodes, 2-partition found in 0.268114 secs after 24 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.106435 secs after 93 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.346505 secs after 193 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.790146 secs after 475 iterations
+test 6: tree with 1900 nodes, 32-partition found in 12.493976 secs after 998 iterations
+test 7: tree with 1900 nodes, 64-partition found in 27.075250 secs after 2049 iterations
+Round 37:
+test 2: tree with 1900 nodes, 2-partition found in 0.136382 secs after 12 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.608383 secs after 51 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.521613 secs after 126 iterations
+test 5: tree with 1900 nodes, 16-partition found in 3.778100 secs after 309 iterations
+test 6: tree with 1900 nodes, 32-partition found in 8.187704 secs after 652 iterations
+test 7: tree with 1900 nodes, 64-partition found in 18.928427 secs after 1414 iterations
+Round 38:
+test 2: tree with 1900 nodes, 2-partition found in 0.313341 secs after 27 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.222368 secs after 101 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.694321 secs after 221 iterations
+test 5: tree with 1900 nodes, 16-partition found in 6.603341 secs after 541 iterations
+test 6: tree with 1900 nodes, 32-partition found in 14.156864 secs after 1136 iterations
+test 7: tree with 1900 nodes, 64-partition found in 30.680203 secs after 2332 iterations
+Round 39:
+test 2: tree with 1900 nodes, 2-partition found in 0.396893 secs after 35 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.414979 secs after 118 iterations
+test 4: tree with 1900 nodes, 8-partition found in 3.327313 secs after 275 iterations
+test 5: tree with 1900 nodes, 16-partition found in 7.937904 secs after 654 iterations
+test 6: tree with 1900 nodes, 32-partition found in 16.342123 secs after 1314 iterations
+test 7: tree with 1900 nodes, 64-partition found in 35.947734 secs after 2724 iterations
+Round 40:
+test 2: tree with 1900 nodes, 2-partition found in 0.166949 secs after 15 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.786327 secs after 66 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.790897 secs after 148 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.593954 secs after 379 iterations
+test 6: tree with 1900 nodes, 32-partition found in 9.595691 secs after 772 iterations
+test 7: tree with 1900 nodes, 64-partition found in 21.752093 secs after 1646 iterations
+Round 41:
+test 2: tree with 1900 nodes, 2-partition found in 0.369323 secs after 32 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.103235 secs after 92 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.719949 secs after 225 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.991688 secs after 493 iterations
+test 6: tree with 1900 nodes, 32-partition found in 13.227391 secs after 1060 iterations
+test 7: tree with 1900 nodes, 64-partition found in 29.586190 secs after 2234 iterations
+Round 42:
+test 2: tree with 1900 nodes, 2-partition found in 0.415129 secs after 36 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.245976 secs after 103 iterations
+test 4: tree with 1900 nodes, 8-partition found in 3.217337 secs after 266 iterations
+test 5: tree with 1900 nodes, 16-partition found in 7.176372 secs after 591 iterations
+test 6: tree with 1900 nodes, 32-partition found in 15.188433 secs after 1222 iterations
+test 7: tree with 1900 nodes, 64-partition found in 33.315661 secs after 2517 iterations
+Round 43:
+test 2: tree with 1900 nodes, 2-partition found in 0.364934 secs after 31 iterations
+test 3: tree with 1900 nodes, 4-partition found in 1.158034 secs after 96 iterations
+test 4: tree with 1900 nodes, 8-partition found in 3.072833 secs after 254 iterations
+test 5: tree with 1900 nodes, 16-partition found in 6.858883 secs after 564 iterations
+test 6: tree with 1900 nodes, 32-partition found in 15.218156 secs after 1225 iterations
+test 7: tree with 1900 nodes, 64-partition found in 33.421615 secs after 2525 iterations
+Round 44:
+test 2: tree with 1900 nodes, 2-partition found in 0.181751 secs after 16 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.739721 secs after 62 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.916469 secs after 159 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.548898 secs after 375 iterations
+test 6: tree with 1900 nodes, 32-partition found in 9.779259 secs after 787 iterations
+test 7: tree with 1900 nodes, 64-partition found in 22.291306 secs after 1697 iterations
+Round 45:
+test 2: tree with 1900 nodes, 2-partition found in 0.189850 secs after 17 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.704478 secs after 59 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.703952 secs after 141 iterations
+test 5: tree with 1900 nodes, 16-partition found in 3.875339 secs after 319 iterations
+test 6: tree with 1900 nodes, 32-partition found in 8.968481 secs after 721 iterations
+test 7: tree with 1900 nodes, 64-partition found in 19.745453 secs after 1513 iterations
+Round 46:
+test 2: tree with 1900 nodes, 2-partition found in 0.272118 secs after 24 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.856462 secs after 71 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.105986 secs after 171 iterations
+test 5: tree with 1900 nodes, 16-partition found in 4.738259 secs after 390 iterations
+test 6: tree with 1900 nodes, 32-partition found in 10.550410 secs after 850 iterations
+test 7: tree with 1900 nodes, 64-partition found in 24.044850 secs after 1828 iterations
+Round 47:
+test 2: tree with 1900 nodes, 2-partition found in 0.277122 secs after 25 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.863626 secs after 71 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.309227 secs after 191 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.170424 secs after 425 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.467636 secs after 922 iterations
+test 7: tree with 1900 nodes, 64-partition found in 25.905762 secs after 1965 iterations
+Round 48:
+test 2: tree with 1900 nodes, 2-partition found in 0.134391 secs after 12 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.443865 secs after 37 iterations
+test 4: tree with 1900 nodes, 8-partition found in 1.219718 secs after 101 iterations
+test 5: tree with 1900 nodes, 16-partition found in 3.169316 secs after 261 iterations
+test 6: tree with 1900 nodes, 32-partition found in 7.534814 secs after 604 iterations
+test 7: tree with 1900 nodes, 64-partition found in 17.332073 secs after 1306 iterations
+Round 49:
+test 2: tree with 1900 nodes, 2-partition found in 0.166039 secs after 14 iterations
+test 3: tree with 1900 nodes, 4-partition found in 0.745846 secs after 62 iterations
+test 4: tree with 1900 nodes, 8-partition found in 2.072702 secs after 172 iterations
+test 5: tree with 1900 nodes, 16-partition found in 5.105365 secs after 421 iterations
+test 6: tree with 1900 nodes, 32-partition found in 11.409705 secs after 922 iterations
+test 7: tree with 1900 nodes, 64-partition found in 26.099579 secs after 1985 iterations

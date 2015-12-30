@@ -1,0 +1,350 @@
+Round 0:
+test 2: tree with 1800 nodes, 2-partition found in 0.311002 secs after 30 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.080563 secs after 103 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.693089 secs after 255 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.753958 secs after 538 iterations
+test 6: tree with 1800 nodes, 32-partition found in 12.725909 secs after 1149 iterations
+test 7: tree with 1800 nodes, 64-partition found in 27.852852 secs after 2347 iterations
+Round 1:
+test 2: tree with 1800 nodes, 2-partition found in 0.193369 secs after 21 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.579855 secs after 54 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.715535 secs after 161 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.248495 secs after 395 iterations
+test 6: tree with 1800 nodes, 32-partition found in 9.723488 secs after 879 iterations
+test 7: tree with 1800 nodes, 64-partition found in 22.008936 secs after 1854 iterations
+Round 2:
+test 2: tree with 1800 nodes, 2-partition found in 0.234169 secs after 23 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.964775 secs after 92 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.234034 secs after 210 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.508671 secs after 420 iterations
+test 6: tree with 1800 nodes, 32-partition found in 10.484787 secs after 950 iterations
+test 7: tree with 1800 nodes, 64-partition found in 23.949200 secs after 2015 iterations
+Round 3:
+test 2: tree with 1800 nodes, 2-partition found in 0.232023 secs after 23 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.742447 secs after 70 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.884470 secs after 176 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.503907 secs after 419 iterations
+test 6: tree with 1800 nodes, 32-partition found in 10.341242 secs after 936 iterations
+test 7: tree with 1800 nodes, 64-partition found in 22.868728 secs after 1932 iterations
+Round 4:
+test 2: tree with 1800 nodes, 2-partition found in 0.114888 secs after 11 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.692383 secs after 65 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.824989 secs after 172 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.852414 secs after 357 iterations
+test 6: tree with 1800 nodes, 32-partition found in 8.730640 secs after 785 iterations
+test 7: tree with 1800 nodes, 64-partition found in 19.990027 secs after 1670 iterations
+Round 5:
+test 2: tree with 1800 nodes, 2-partition found in 0.267505 secs after 26 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.911923 secs after 86 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.179561 secs after 203 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.806464 secs after 445 iterations
+test 6: tree with 1800 nodes, 32-partition found in 10.760444 secs after 970 iterations
+test 7: tree with 1800 nodes, 64-partition found in 23.935679 secs after 2018 iterations
+Round 6:
+test 2: tree with 1800 nodes, 2-partition found in 0.441239 secs after 42 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.295068 secs after 121 iterations
+test 4: tree with 1800 nodes, 8-partition found in 3.052364 secs after 285 iterations
+test 5: tree with 1800 nodes, 16-partition found in 6.840238 secs after 635 iterations
+test 6: tree with 1800 nodes, 32-partition found in 14.854288 secs after 1347 iterations
+test 7: tree with 1800 nodes, 64-partition found in 33.882145 secs after 2868 iterations
+Round 7:
+test 2: tree with 1800 nodes, 2-partition found in 0.194167 secs after 20 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.610882 secs after 57 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.583325 secs after 147 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.639102 secs after 338 iterations
+test 6: tree with 1800 nodes, 32-partition found in 8.768913 secs after 788 iterations
+test 7: tree with 1800 nodes, 64-partition found in 19.502115 secs after 1640 iterations
+Round 8:
+test 2: tree with 1800 nodes, 2-partition found in 0.204878 secs after 20 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.904358 secs after 86 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.260234 secs after 211 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.672757 secs after 431 iterations
+test 6: tree with 1800 nodes, 32-partition found in 10.605672 secs after 950 iterations
+test 7: tree with 1800 nodes, 64-partition found in 23.643495 secs after 1980 iterations
+Round 9:
+test 2: tree with 1800 nodes, 2-partition found in 0.188592 secs after 18 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.639829 secs after 60 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.567471 secs after 147 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.743902 secs after 350 iterations
+test 6: tree with 1800 nodes, 32-partition found in 8.596816 secs after 780 iterations
+test 7: tree with 1800 nodes, 64-partition found in 19.566580 secs after 1651 iterations
+Round 10:
+test 2: tree with 1800 nodes, 2-partition found in 0.208639 secs after 21 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.631326 secs after 59 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.645176 secs after 154 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.804165 secs after 353 iterations
+test 6: tree with 1800 nodes, 32-partition found in 8.851725 secs after 798 iterations
+test 7: tree with 1800 nodes, 64-partition found in 20.114943 secs after 1697 iterations
+Round 11:
+test 2: tree with 1800 nodes, 2-partition found in 0.216575 secs after 21 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.674966 secs after 63 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.699691 secs after 159 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.937446 secs after 366 iterations
+test 6: tree with 1800 nodes, 32-partition found in 9.454268 secs after 855 iterations
+test 7: tree with 1800 nodes, 64-partition found in 21.601691 secs after 1818 iterations
+Round 12:
+test 2: tree with 1800 nodes, 2-partition found in 0.372528 secs after 38 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.137419 secs after 107 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.827273 secs after 266 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.563593 secs after 519 iterations
+test 6: tree with 1800 nodes, 32-partition found in 12.908389 secs after 1176 iterations
+test 7: tree with 1800 nodes, 64-partition found in 28.930059 secs after 2466 iterations
+Round 13:
+test 2: tree with 1800 nodes, 2-partition found in 0.352382 secs after 35 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.065489 secs after 100 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.605485 secs after 245 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.745989 secs after 537 iterations
+test 6: tree with 1800 nodes, 32-partition found in 13.077420 secs after 1185 iterations
+test 7: tree with 1800 nodes, 64-partition found in 28.408047 secs after 2407 iterations
+Round 14:
+test 2: tree with 1800 nodes, 2-partition found in 0.236495 secs after 23 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.754285 secs after 71 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.953064 secs after 183 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.560662 secs after 424 iterations
+test 6: tree with 1800 nodes, 32-partition found in 9.950919 secs after 898 iterations
+test 7: tree with 1800 nodes, 64-partition found in 22.880425 secs after 1920 iterations
+Round 15:
+test 2: tree with 1800 nodes, 2-partition found in 0.209523 secs after 20 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.695504 secs after 65 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.042929 secs after 192 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.658017 secs after 434 iterations
+test 6: tree with 1800 nodes, 32-partition found in 9.880412 secs after 895 iterations
+test 7: tree with 1800 nodes, 64-partition found in 23.190753 secs after 1967 iterations
+Round 16:
+test 2: tree with 1800 nodes, 2-partition found in 0.191934 secs after 18 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.924142 secs after 86 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.430598 secs after 227 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.596785 secs after 520 iterations
+test 6: tree with 1800 nodes, 32-partition found in 12.233411 secs after 1107 iterations
+test 7: tree with 1800 nodes, 64-partition found in 27.204443 secs after 2292 iterations
+Round 17:
+test 2: tree with 1800 nodes, 2-partition found in 0.212017 secs after 21 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.615924 secs after 57 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.666178 secs after 156 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.061124 secs after 376 iterations
+test 6: tree with 1800 nodes, 32-partition found in 8.821869 secs after 793 iterations
+test 7: tree with 1800 nodes, 64-partition found in 20.293577 secs after 1699 iterations
+Round 18:
+test 2: tree with 1800 nodes, 2-partition found in 0.154914 secs after 15 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.629210 secs after 59 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.756967 secs after 165 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.760165 secs after 348 iterations
+test 6: tree with 1800 nodes, 32-partition found in 8.808591 secs after 796 iterations
+test 7: tree with 1800 nodes, 64-partition found in 20.234153 secs after 1707 iterations
+Round 19:
+test 2: tree with 1800 nodes, 2-partition found in 0.470883 secs after 48 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.374601 secs after 130 iterations
+test 4: tree with 1800 nodes, 8-partition found in 3.099270 secs after 290 iterations
+test 5: tree with 1800 nodes, 16-partition found in 7.258623 secs after 676 iterations
+test 6: tree with 1800 nodes, 32-partition found in 15.457238 secs after 1406 iterations
+test 7: tree with 1800 nodes, 64-partition found in 33.329682 secs after 2840 iterations
+Round 20:
+test 2: tree with 1800 nodes, 2-partition found in 0.278502 secs after 28 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.749023 secs after 70 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.956427 secs after 184 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.230426 secs after 395 iterations
+test 6: tree with 1800 nodes, 32-partition found in 9.859239 secs after 899 iterations
+test 7: tree with 1800 nodes, 64-partition found in 22.051025 secs after 1879 iterations
+Round 21:
+test 2: tree with 1800 nodes, 2-partition found in 0.117867 secs after 11 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.767485 secs after 72 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.035168 secs after 191 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.506252 secs after 421 iterations
+test 6: tree with 1800 nodes, 32-partition found in 10.829789 secs after 987 iterations
+test 7: tree with 1800 nodes, 64-partition found in 24.271334 secs after 2060 iterations
+Round 22:
+test 2: tree with 1800 nodes, 2-partition found in 0.189030 secs after 18 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.691655 secs after 65 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.765614 secs after 165 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.345093 secs after 405 iterations
+test 6: tree with 1800 nodes, 32-partition found in 9.599750 secs after 871 iterations
+test 7: tree with 1800 nodes, 64-partition found in 21.846623 secs after 1844 iterations
+Round 23:
+test 2: tree with 1800 nodes, 2-partition found in 0.080075 secs after 8 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.308846 secs after 29 iterations
+test 4: tree with 1800 nodes, 8-partition found in 0.951747 secs after 89 iterations
+test 5: tree with 1800 nodes, 16-partition found in 2.390626 secs after 222 iterations
+test 6: tree with 1800 nodes, 32-partition found in 5.970140 secs after 537 iterations
+test 7: tree with 1800 nodes, 64-partition found in 13.948611 secs after 1168 iterations
+Round 24:
+test 2: tree with 1800 nodes, 2-partition found in 0.209510 secs after 21 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.693578 secs after 66 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.841242 secs after 173 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.894578 secs after 364 iterations
+test 6: tree with 1800 nodes, 32-partition found in 8.686303 secs after 790 iterations
+test 7: tree with 1800 nodes, 64-partition found in 20.426092 secs after 1727 iterations
+Round 25:
+test 2: tree with 1800 nodes, 2-partition found in 0.079300 secs after 8 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.447084 secs after 42 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.248406 secs after 117 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.135286 secs after 292 iterations
+test 6: tree with 1800 nodes, 32-partition found in 7.349530 secs after 667 iterations
+test 7: tree with 1800 nodes, 64-partition found in 16.181375 secs after 1371 iterations
+Round 26:
+test 2: tree with 1800 nodes, 2-partition found in 0.376892 secs after 37 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.220536 secs after 115 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.775926 secs after 260 iterations
+test 5: tree with 1800 nodes, 16-partition found in 6.608213 secs after 616 iterations
+test 6: tree with 1800 nodes, 32-partition found in 14.624987 secs after 1323 iterations
+test 7: tree with 1800 nodes, 64-partition found in 31.649209 secs after 2680 iterations
+Round 27:
+test 2: tree with 1800 nodes, 2-partition found in 0.330340 secs after 32 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.046405 secs after 99 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.417249 secs after 226 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.290554 secs after 491 iterations
+test 6: tree with 1800 nodes, 32-partition found in 11.915558 secs after 1077 iterations
+test 7: tree with 1800 nodes, 64-partition found in 26.119883 secs after 2217 iterations
+Round 28:
+test 2: tree with 1800 nodes, 2-partition found in 0.191537 secs after 19 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.647279 secs after 61 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.664324 secs after 156 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.788146 secs after 354 iterations
+test 6: tree with 1800 nodes, 32-partition found in 8.476987 secs after 771 iterations
+test 7: tree with 1800 nodes, 64-partition found in 19.300078 secs after 1639 iterations
+Round 29:
+test 2: tree with 1800 nodes, 2-partition found in 0.221716 secs after 21 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.846746 secs after 80 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.194493 secs after 206 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.097168 secs after 477 iterations
+test 6: tree with 1800 nodes, 32-partition found in 10.880886 secs after 993 iterations
+test 7: tree with 1800 nodes, 64-partition found in 24.788926 secs after 2113 iterations
+Round 30:
+test 2: tree with 1800 nodes, 2-partition found in 0.288081 secs after 29 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.020701 secs after 96 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.230959 secs after 209 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.791744 secs after 542 iterations
+test 6: tree with 1800 nodes, 32-partition found in 12.110613 secs after 1105 iterations
+test 7: tree with 1800 nodes, 64-partition found in 27.685869 secs after 2363 iterations
+Round 31:
+test 2: tree with 1800 nodes, 2-partition found in 0.198865 secs after 21 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.646137 secs after 61 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.482330 secs after 139 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.795895 secs after 354 iterations
+test 6: tree with 1800 nodes, 32-partition found in 8.320559 secs after 758 iterations
+test 7: tree with 1800 nodes, 64-partition found in 19.241394 secs after 1631 iterations
+Round 32:
+test 2: tree with 1800 nodes, 2-partition found in 0.123551 secs after 12 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.490618 secs after 46 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.449229 secs after 136 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.334128 secs after 310 iterations
+test 6: tree with 1800 nodes, 32-partition found in 7.746827 secs after 700 iterations
+test 7: tree with 1800 nodes, 64-partition found in 17.330225 secs after 1457 iterations
+Round 33:
+test 2: tree with 1800 nodes, 2-partition found in 0.297618 secs after 30 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.922397 secs after 87 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.267337 secs after 213 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.888584 secs after 457 iterations
+test 6: tree with 1800 nodes, 32-partition found in 10.581130 secs after 961 iterations
+test 7: tree with 1800 nodes, 64-partition found in 24.486465 secs after 2078 iterations
+Round 34:
+test 2: tree with 1800 nodes, 2-partition found in 0.363814 secs after 37 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.115431 secs after 106 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.551979 secs after 239 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.778960 secs after 540 iterations
+test 6: tree with 1800 nodes, 32-partition found in 12.753350 secs after 1163 iterations
+test 7: tree with 1800 nodes, 64-partition found in 28.801445 secs after 2445 iterations
+Round 35:
+test 2: tree with 1800 nodes, 2-partition found in 0.038248 secs after 4 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.393218 secs after 37 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.078079 secs after 101 iterations
+test 5: tree with 1800 nodes, 16-partition found in 2.594089 secs after 242 iterations
+test 6: tree with 1800 nodes, 32-partition found in 5.887467 secs after 533 iterations
+test 7: tree with 1800 nodes, 64-partition found in 14.153320 secs after 1190 iterations
+Round 36:
+test 2: tree with 1800 nodes, 2-partition found in 0.463353 secs after 45 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.456691 secs after 137 iterations
+test 4: tree with 1800 nodes, 8-partition found in 3.469500 secs after 325 iterations
+test 5: tree with 1800 nodes, 16-partition found in 7.322327 secs after 682 iterations
+test 6: tree with 1800 nodes, 32-partition found in 16.247322 secs after 1469 iterations
+test 7: tree with 1800 nodes, 64-partition found in 36.502929 secs after 3071 iterations
+Round 37:
+test 2: tree with 1800 nodes, 2-partition found in 0.329881 secs after 35 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.862784 secs after 81 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.158664 secs after 202 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.945060 secs after 459 iterations
+test 6: tree with 1800 nodes, 32-partition found in 10.911821 secs after 981 iterations
+test 7: tree with 1800 nodes, 64-partition found in 24.069208 secs after 2027 iterations
+Round 38:
+test 2: tree with 1800 nodes, 2-partition found in 0.504569 secs after 51 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.486063 secs after 139 iterations
+test 4: tree with 1800 nodes, 8-partition found in 3.414241 secs after 318 iterations
+test 5: tree with 1800 nodes, 16-partition found in 7.170478 secs after 665 iterations
+test 6: tree with 1800 nodes, 32-partition found in 16.857602 secs after 1519 iterations
+test 7: tree with 1800 nodes, 64-partition found in 36.483136 secs after 3073 iterations
+Round 39:
+test 2: tree with 1800 nodes, 2-partition found in 0.167564 secs after 17 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.616364 secs after 58 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.820364 secs after 171 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.256122 secs after 395 iterations
+test 6: tree with 1800 nodes, 32-partition found in 9.154870 secs after 827 iterations
+test 7: tree with 1800 nodes, 64-partition found in 21.343260 secs after 1787 iterations
+Round 40:
+test 2: tree with 1800 nodes, 2-partition found in 0.354884 secs after 34 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.039599 secs after 97 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.428293 secs after 226 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.872419 secs after 545 iterations
+test 6: tree with 1800 nodes, 32-partition found in 12.549886 secs after 1135 iterations
+test 7: tree with 1800 nodes, 64-partition found in 28.862179 secs after 2419 iterations
+Round 41:
+test 2: tree with 1800 nodes, 2-partition found in 0.191040 secs after 18 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.781090 secs after 73 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.879967 secs after 176 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.530223 secs after 422 iterations
+test 6: tree with 1800 nodes, 32-partition found in 10.073079 secs after 910 iterations
+test 7: tree with 1800 nodes, 64-partition found in 22.332322 secs after 1888 iterations
+Round 42:
+test 2: tree with 1800 nodes, 2-partition found in 0.204004 secs after 20 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.626187 secs after 59 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.566540 secs after 147 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.699266 secs after 345 iterations
+test 6: tree with 1800 nodes, 32-partition found in 8.285793 secs after 750 iterations
+test 7: tree with 1800 nodes, 64-partition found in 19.006915 secs after 1604 iterations
+Round 43:
+test 2: tree with 1800 nodes, 2-partition found in 0.173762 secs after 17 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.657071 secs after 62 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.931206 secs after 182 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.380849 secs after 410 iterations
+test 6: tree with 1800 nodes, 32-partition found in 9.429043 secs after 859 iterations
+test 7: tree with 1800 nodes, 64-partition found in 22.032007 secs after 1874 iterations
+Round 44:
+test 2: tree with 1800 nodes, 2-partition found in 0.194352 secs after 19 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.757257 secs after 73 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.702839 secs after 160 iterations
+test 5: tree with 1800 nodes, 16-partition found in 3.873993 secs after 362 iterations
+test 6: tree with 1800 nodes, 32-partition found in 9.152867 secs after 830 iterations
+test 7: tree with 1800 nodes, 64-partition found in 20.329741 secs after 1732 iterations
+Round 45:
+test 2: tree with 1800 nodes, 2-partition found in 0.284622 secs after 28 iterations
+test 3: tree with 1800 nodes, 4-partition found in 1.029586 secs after 97 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.478314 secs after 232 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.744229 secs after 535 iterations
+test 6: tree with 1800 nodes, 32-partition found in 12.254504 secs after 1108 iterations
+test 7: tree with 1800 nodes, 64-partition found in 28.720404 secs after 2419 iterations
+Round 46:
+test 2: tree with 1800 nodes, 2-partition found in 0.211772 secs after 21 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.858746 secs after 81 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.165100 secs after 203 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.071464 secs after 473 iterations
+test 6: tree with 1800 nodes, 32-partition found in 11.025758 secs after 996 iterations
+test 7: tree with 1800 nodes, 64-partition found in 25.034944 secs after 2111 iterations
+Round 47:
+test 2: tree with 1800 nodes, 2-partition found in 0.274229 secs after 27 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.898915 secs after 85 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.169439 secs after 204 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.013993 secs after 468 iterations
+test 6: tree with 1800 nodes, 32-partition found in 11.154248 secs after 1017 iterations
+test 7: tree with 1800 nodes, 64-partition found in 25.150404 secs after 2142 iterations
+Round 48:
+test 2: tree with 1800 nodes, 2-partition found in 0.313619 secs after 31 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.911468 secs after 86 iterations
+test 4: tree with 1800 nodes, 8-partition found in 2.330770 secs after 219 iterations
+test 5: tree with 1800 nodes, 16-partition found in 5.010588 secs after 467 iterations
+test 6: tree with 1800 nodes, 32-partition found in 11.200983 secs after 1016 iterations
+test 7: tree with 1800 nodes, 64-partition found in 26.175415 secs after 2214 iterations
+Round 49:
+test 2: tree with 1800 nodes, 2-partition found in 0.156178 secs after 15 iterations
+test 3: tree with 1800 nodes, 4-partition found in 0.677051 secs after 63 iterations
+test 4: tree with 1800 nodes, 8-partition found in 1.786785 secs after 167 iterations
+test 5: tree with 1800 nodes, 16-partition found in 4.031003 secs after 375 iterations
+test 6: tree with 1800 nodes, 32-partition found in 9.115748 secs after 822 iterations
+test 7: tree with 1800 nodes, 64-partition found in 20.945407 secs after 1761 iterations

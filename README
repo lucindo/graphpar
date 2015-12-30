@@ -1,0 +1,68 @@
+Directory description:
+
+  util/         sources of library of utilities 
+                (e.g.: timers, logging system)
+                generates libUtil.so
+  util/tinyxml  TinyXml (small C++ XML parser)
+                generates libTinyXML.so
+  graph/        general proupose graph library
+                generates libGraph.so
+  ptree/        implementation of Perl & Schach Max-Min 
+                Tree partition algorithm
+                generates libTreePartition.so
+  heuristic/    graph partition heuristics implementation
+                generates libGraphPartition.so
+  gen/          graph and tree random generators
+                generates libGraphGen.so
+  treetest/     test program of tree partition algorithm
+                generates ptreetest
+  heurtest/     test program for graph partition heuristics
+
+  lib/          all library files (*.so)
+  bin/          all binaries
+
+To run the programs you must use the ./run script, that sets
+the LD_LIBRARY_PATH to ./lib before calling the binaries:
+
+ptreetest:
+  $ ./run bin/ptreetest
+  usage: bin/ptreetest <#vertices> <rounds> <partition size ...>
+  $
+  
+  Calling ./run bin/ptreetest 100 2 3 4 10
+  Will find partitions with 3, 4 and 10 clusters in 2 random
+  generated tree of 100 vertices.
+
+htest:
+  $ ./run bin/htest
+  usage: bin/htest [-D] <options> [-o <output file>]
+    heuristic options:
+          -t <tries> (total random spanning trees to test)
+          -g <tries> (give up after <#tries> not improving the solution)
+          -T <secs> (time in seconds allowed to process)
+    input options:
+          to generate a random graph you must provide:
+            -v <vertices> (# of vertices)
+            -w <weight> (total weight of graph)
+            -d <density> (graph density in percent)
+            -c <clusters> (# of cluters in partition)
+          to read a graph from XML:
+            -i <input file> (path to XML file)
+  $
+
+  -D activates debug mode and -o <file> writes the solution to a xml
+  (graphxml that can be visualized with yEd http://www.yworks.com/products/yed/)
+
+  You can use XML as input or provide the options to generate a random graph.
+
+  For heuristic options you must set the number of tries or the time allowed (in seconds).
+
+  Ex:
+  ./run bin/htest -T 10 -g 40 -i graph.xml
+  (Will read the graph - and number of clusters - from graph.xml and run the algorithm
+   for 10 seconds, but can stop after 40 tries not improving the solution)
+
+  ./run bin/htest -t 250 -v 100 -w 3000 -d 20 -c 10
+  (Will generate a random graph with 100 vertices, total weight of 3000 with 20% of density
+   - 2000 edges. The generated graph have 10 equal weighted components. The algorithm will
+   try to find the best 10-partition using 250 random spanning trees) 

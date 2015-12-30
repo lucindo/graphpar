@@ -1,0 +1,9 @@
+all:
+
+.PHONY: clean cleanbin realclean 
+realclean: cleanbin clean
+
+cleanbin:
+	-rm -f $(BIN) $(LIB)
+clean:
+	-rm -f *.*~ $(objects) *.so
